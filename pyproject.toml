@@ -1,0 +1,8 @@
+[project]
+name = "directory"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "boto3>=1.39.7",
+    "botocore>=1.39.7",
+]
