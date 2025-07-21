@@ -18098,6 +18098,7 @@ firmware/Tapo_C510Wv2_en_1.1.3_Build_250626_Rel.54209n_up_boot-signed_1752634324
 firmware/Tapo_C510Wv2_en_1.1.3_Build_250626_Rel.54209n_up_boot-signed_1752634339832.bin
 firmware/Tapo_C510Wv2_en_1.1.3_Build_250626_Rel.54209n_up_boot-signed_1752635223721.bin
 firmware/Tapo_C510Wv2_en_1.1.3_Build_250626_Rel.54209n_up_boot-signed_1752637024394.bin
+firmware/Tapo_C510Wv2_en_1.1.3_Build_250626_Rel.54209n_up_boot-signed_1753062726953.bin
 firmware/Tapo_C520WSv1_en_1.0.10_Build_230612_Rel.65089n_up_boot-signed_1688711366684.bin
 firmware/Tapo_C520WSv1_en_1.0.10_Build_230612_Rel.65089n_up_boot-signed_1693963135346.bin
 firmware/Tapo_C520WSv1_en_1.0.10_Build_230612_Rel.65089n_up_boot-signed_1694002889124.bin
@@ -27216,6 +27217,7 @@ firmware/assigned/DL130_US_1.0.2_Build_250704_Rel.150008-signed_1751884800781.bi
 firmware/assigned/DL130_US_1.0.3_Build_250624_Rel.180325-signed_1752753602858.bin
 firmware/assigned/DL130_US_1.0.3_Build_250704_Rel.150510_2025-07-04_15.18.13_1751889600884.bin
 firmware/assigned/DL130_US_1.0.4_Build_250718_Rel.160733_2025-07-18_16.13.16_1752829231307.bin
+firmware/assigned/DL130_US_1.0.4_Build_250718_Rel.160733_2025-07-18_16.13.16_1753064400867.bin
 firmware/assigned/EB810vv1_0.15.0_3.0.0_UP_BOOT_beta_2024-08-07_10.14.34_1723539924556.bin
 firmware/assigned/EC60-up-ver2-3-12-P1[20231127-rel49664]-signed_1701070861181.bin
 firmware/assigned/EC60v2-up-ver2-3-15-P1[20230201-rel32987]-signed_1677805214722.bin
@@ -28633,6 +28635,7 @@ firmware/assigned/L900_UN_1.1.5_Build_250307_Rel.202941_2025-03-07_20.31.05_1744
 firmware/assigned/L901_UN_1.4.1_Build_250619_Rel.155446_2025-06-19_15.59.28_1750332000791.bin.rollback
 firmware/assigned/L901_UN_1.4.1_Build_250704_Rel.150350-signed_1752031200957.bin
 firmware/assigned/L901_UN_1.4.1_Build_250704_Rel.150350-signed_1752552013874.bin
+firmware/assigned/L901_UN_1.4.1_Build_250704_Rel.150350-signed_1753064407023.bin
 firmware/assigned/L901_UN_1.4.2_Build_250715_Rel.105332_2025-07-15_11.07.39_1752550800828.bin
 firmware/assigned/L901_UN_1.4.2_Build_250715_Rel.105332_2025-07-15_11.07.39_1752568800709.bin
 firmware/assigned/L901_UN_1.4.2_Build_250715_Rel.105332_2025-07-15_11.07.39_1752656406179.bin
@@ -30949,6 +30952,7 @@ firmware/assigned/Tapo_C21Av3_en_1.1.1_Build_241224_Rel.56667n_up_boot-signed_17
 firmware/assigned/Tapo_C21Av3_en_1.1.2_Build_250527_Rel.62152n_up_boot-signed_1748491201663.bin
 firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250429_Rel.60782n_up_boot-signed_1748941204710.bin
 firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250429_Rel.60782n_up_boot-signed_1752748823949.bin
+firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250429_Rel.60782n_up_boot-signed_1753064403989.bin
 firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250620_Rel.63505n_up_boot-signed_1750662001476.bin
 firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250625_Rel.64660n_up_boot-signed_1750921202077.bin
 firmware/assigned/Tapo_C220v1_en_1.0.10_Build_230803_Rel.60903n_up_boot-signed_1695373230831.bin
@@ -37040,6 +37044,7 @@ firmware/nvr2008h8mpv2_en_1_3_1_up_boot_25040740963-signed_1745198890761.bin
 firmware/nvr2008h8mpv2_en_1_4_0_up_boot_25062367226-signed_1751938560420.bin
 firmware/nvr2008h8mpv2_en_1_4_0_up_boot_25062367226-signed_1751958453333.bin
 firmware/nvr2008h8mpv2_en_1_4_0_up_boot_25062367226-signed_1752801030153.bin
+firmware/nvr2008h8mpv2_en_1_4_0_up_boot_25062367226-signed_1753062799171.bin
 firmware/nvr2016h16mpv2_en_1_0_0_up_boot_24082262939-signed_1728893311335.bin.rollback
 firmware/nvr2016h16mpv2_en_1_0_0_up_boot_24082262939-signed_1732528346703.bin
 firmware/nvr2016h16mpv2_en_1_1_0_up_boot_24102540560-signed_1730890812532.bin
