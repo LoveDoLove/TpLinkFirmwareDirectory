@@ -1,5 +1,6 @@
 import boto3
 from botocore.handlers import disable_signing
+import os
 
 def list_all_s3_objects(bucket_name):
     # Create S3 resource and disable signing

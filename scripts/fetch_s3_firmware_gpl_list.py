@@ -1,32 +1,27 @@
 import boto3
 from botocore.handlers import disable_signing
-import tarfile
 import os
 
-def export_gpl_source_list_s3(bucket_name, object_key, export_dir):
+def list_all_s3_objects(bucket_name):
     # Create S3 resource and disable signing
     s3 = boto3.resource('s3')
     s3.meta.client.meta.events.register('choose-signer.s3.*', disable_signing)
     bucket = s3.Bucket(bucket_name)
-    # Download the tar.gz file
-    local_filename = os.path.basename(object_key)
-    bucket.download_file(object_key, local_filename)
-    # Export file list
+    # Use paginator for stability and performance
+    client = boto3.client('s3')
+    client.meta.events.register('choose-signer.s3.*', disable_signing)
+    paginator = client.get_paginator('list_objects_v2')
+    export_dir = 'lists'
     os.makedirs(export_dir, exist_ok=True)
-    base_name = os.path.splitext(local_filename)[0]
-    # Use bucket and object path for better naming
-    safe_object_key = object_key.replace('/', '_')
-    export_txt = os.path.join(export_dir, f"{bucket_name}_{safe_object_key}_filelist.txt")
-    with tarfile.open(local_filename, "r:gz") as tar:
-        with open(export_txt, "w", encoding="utf-8") as f:
-            for member in tar.getmembers():
-                f.write(member.name + "\n")
-    print(f"Exported file list to: {export_txt}")
+    export_path = os.path.join(export_dir, f'{bucket_name}_gpl_all_keys.txt')
+    with open(export_path, 'w', encoding='utf-8') as f:
+        for page in paginator.paginate(Bucket=bucket_name):
+            for obj in page.get('Contents', []):
+                key = obj['Key']
+                print(key, flush=True)
+                f.write(key + '\n')
+                f.flush()
+    print(f"Exported GPL S3 file list to: {export_path}")
 
 if __name__ == "__main__":
-    # Example usage for ArcherC5v_GPL.tar.gz in S3
-    export_gpl_source_list_s3(
-        'static.tp-link.com',
-        'upload/gpl-code/2022/202209/20220902/ArcherC5v_GPL.tar.gz',
-        'lists'
-    )
+    list_all_s3_objects('static.tp-link.com')
