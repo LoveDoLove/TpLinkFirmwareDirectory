@@ -12,7 +12,10 @@ def list_all_s3_objects(bucket_name):
     client.meta.events.register('choose-signer.s3.*', disable_signing)
     paginator = client.get_paginator('list_objects_v2')
     
-    with open('all_keys.txt', 'w', encoding='utf-8') as f:
+    export_dir = 'lists'
+    os.makedirs(export_dir, exist_ok=True)
+    export_path = os.path.join(export_dir, f'{bucket_name}_all_keys.txt')
+    with open(export_path, 'w', encoding='utf-8') as f:
         for page in paginator.paginate(Bucket=bucket_name):
             for obj in page.get('Contents', []):
                 key = obj['Key']
