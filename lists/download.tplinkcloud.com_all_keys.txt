@@ -11492,6 +11492,7 @@ firmware/Omada_Pro_Controller_Windows_v1.9.10.3_1716253360969.zip
 firmware/Omada_Pro_Controller_Windows_v1.9.30.2_[20240914191257]_1727576648172.zip.rollback
 firmware/Omada_Pro_Controller_Windows_v1.9.30.4_[20241101134337]_1730886104454.zip
 firmware/Omada_Pro_Controller_Windows_v1.9.32.1_[20241115185431]_1733899992052.zip
+firmware/Omada_Pro_Controller_Windows_v1.9.32.2_[20250721185702]_1754269726481.zip
 firmware/Omada_Pro_Controller_v1.0.5_linux_x64_20230527151145_1687337048679.tar.gz
 firmware/Omada_Pro_Controller_v1.0.6_linux_x64_20230615120149_1688465608912.tar.gz
 firmware/Omada_Pro_Controller_v1.3.2_linux_x64_20230906151201_1697424483544.tar.gz
@@ -11502,6 +11503,7 @@ firmware/Omada_Pro_Controller_v1.9.10.3_linux_x64_20240318162105_1715563817916.t
 firmware/Omada_Pro_Controller_v1.9.30.2_linux_x64_20240914191914_1727577931407.tar.gz.rollback
 firmware/Omada_Pro_Controller_v1.9.30.4_linux_x64_20241101115227_1730886190690.tar.gz
 firmware/Omada_Pro_Controller_v1.9.32.1_linux_x64_20241126143313_1733897401010.tar.gz
+firmware/Omada_Pro_Controller_v1.9.32.2_linux_x64_20250721185414_1754270020037.tar.gz
 firmware/Omada_SDN_Controller_v5.1.7_linux_x64_202202241_1647929828442.gz
 firmware/Omada_SDN_Controller_v5.12.7_linux_x64_20230905160946_1695178517952.tar.gz
 firmware/Omada_SDN_Controller_v5.13.22_linux_x64_20231117154122_1701413102371.tar.gz
@@ -25282,6 +25284,7 @@ firmware/X53-DSL 1.0_en_1.0.1 Build 20240430 Rel. 66473_NZ_full_up_1719214400943
 firmware/X53-DSL 1.0_en_1.0.2 Build 20250513 Rel. 31000_NZ_full_up_1751338467437.bin
 firmware/X53-DSL 1.0_en_1.0.2 Build 20250513 Rel. 31000_NZ_full_up_1751340169256.bin
 firmware/X53-DSL 1.0_en_1.0.3 Build 20250709 Rel. 15706_NZ_full_up_1753942318224.bin
+firmware/X53-DSL 1.0_en_1.0.3 Build 20250709 Rel. 15706_NZ_full_up_1754271478567.bin
 firmware/X5400Pro1.0_en_0.0.9Build20220707Rel.41105_US__1657764475230.bin
 firmware/X55 1.0_en_1.2.2 Build 20230301 Rel. 53300_US_JP_EU_CA_up_1680255482367.bin
 firmware/X55 1.0_en_1.2.2 Build 20230301 Rel. 53300_US_JP_EU_CA_up_1680255560087.bin
@@ -27251,6 +27254,7 @@ firmware/assigned/DL110V2_US_1.0.3_Build_250711_Rel.152018_2025-07-11_15.22.20_1
 firmware/assigned/DL110V2_US_1.0.3_Build_250711_Rel.152018_2025-07-11_15.22.20_1752220806789.bin
 firmware/assigned/DL110V2_US_1.0.3_Build_250711_Rel.191443_2025-07-11_19.15.47_1752235200808.bin
 firmware/assigned/DL110V2_US_99.99.99_Build_250724_Rel.113913_2025-07-24_11.42.27_1753338000808.bin
+firmware/assigned/DL110V2_US_99.99.99_Build_250728_Rel.165442_2025-07-28_16.56.30_1754223600780.bin
 firmware/assigned/DL110_US_1.0.10_Build_240524_Rel.101833_2024-05-24_10.23.10_1716518404199.bin
 firmware/assigned/DL110_US_1.0.10_Build_240524_Rel.112358_2024-05-24_11.25.40_1716542403942.bin
 firmware/assigned/DL110_US_1.0.10_Build_240524_Rel.121811_2024-05-24_15.11.52_1716795603950.bin
@@ -33977,6 +33981,7 @@ firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250519_Rel.62159n_up_boot-signed_17
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250625_Rel.42009n_up_boot-signed_1750837217017.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.66076n_up_boot-signed_1752466699607.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.66076n_up_boot-signed_1753926051170.bin
+firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.66076n_up_boot-signed_1754271606491.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.67467n_up_boot-signed_1752721263212.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250717_Rel.57550n_up_boot-signed_1753153237090.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.64364n_up_boot-signed_1753760450315.bin
@@ -33985,6 +33990,7 @@ firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.67610n_up_boot-signed_17
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250730_Rel.55967n_up_boot-signed_1753874425825.bin
 firmware/assigned/Tapo_D315v1_en_2.0.1_Build_250717_Rel.70106n_up_boot-signed_1752752433493.bin.rollback
 firmware/assigned/Tapo_D315v1_en_2.0.1_Build_250719_Rel.63419n_up_boot-signed_1752919210923.bin
+firmware/assigned/Tapo_D315v1_en_2.0.1_Build_250803_Rel.62941n_up_boot-signed_1754215216580.bin
 firmware/assigned/Tapo_TC53v1_en_1.0.6_Build_240430_Rel.66544n_up_boot-signed_1714474831877.bin
 firmware/assigned/Tapo_TC53v1_en_1.1.1_Build_240827_Rel.36570n_up_boot-signed_1725595231992.bin
 firmware/assigned/Tapo_TC53v1_en_1.1.1_Build_240827_Rel.36570n_up_boot-signed_1725609633857.bin
@@ -37632,6 +37638,7 @@ firmware/omada_pro_v1.9.10.3_linux_x64_20240318162119_1716253894893.deb
 firmware/omada_pro_v1.9.30.2_linux_x64_20240914191921_1727578123585.deb.rollback
 firmware/omada_pro_v1.9.30.4_linux_x64_20241101115234_1730886298040.deb
 firmware/omada_pro_v1.9.32.1_linux_x64_20241126143320_1733899244291.deb
+firmware/omada_pro_v1.9.32.2_linux_x64_20250721185421_1754269654821.deb
 firmware/omada_v5.1.7_linux_x64_20220224170931_1647929522636.deb
 firmware/omada_v5.12.7_linux_x64_20230905160956_1695177653350.deb
 firmware/omada_v5.13.22_linux_x64_20231117154141_1701414222703.deb
