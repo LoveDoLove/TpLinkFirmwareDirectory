@@ -24,7 +24,7 @@ jobs:
           pip install boto3
       - name: Run fetch_s3_firmware_list.py
         run: |
-          python scripts/fetch_s3_firmware_list.py
+          python .github/scripts/fetch_s3_firmware_list.py
       - name: Check for changes
         run: |
           if git diff --quiet; then
