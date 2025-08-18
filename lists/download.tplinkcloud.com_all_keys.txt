@@ -18192,6 +18192,10 @@ firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755222761
 firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755222792818.bin
 firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755222819364.bin
 firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755222834772.bin
+firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755480187291.bin
+firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755480219757.bin
+firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755480276941.bin
+firmware/Tapo_C460v1_en_1.1.8_Build_250715_Rel.66713n_up_boot2-signed_1755480292536.bin
 firmware/Tapo_C500v1_en_1.0.0_Build_221102_Rel.37658n_u_1672801957478.bin
 firmware/Tapo_C500v1_en_1.0.0_Build_221102_Rel.37658n_u_1673511771909.bin
 firmware/Tapo_C500v1_en_1.0.0_Build_221102_Rel.37658n_u_1675909435186.bin
@@ -18663,6 +18667,8 @@ firmware/Tapo_C610v1_en_1.0.1_Build_250513_Rel.46970n_up_boot-signed_17508910512
 firmware/Tapo_C610v1_en_1.0.1_Build_250513_Rel.46970n_up_boot-signed_1750891090217.bin
 firmware/Tapo_C610v1_en_1.0.1_Build_250513_Rel.46970n_up_boot-signed_1750891098516.bin
 firmware/Tapo_C610v1_en_1.1.0_Build_250701_Rel.68042n_up_boot-signed_1755283039092.bin
+firmware/Tapo_C610v1_en_1.1.0_Build_250701_Rel.68042n_up_boot-signed_1755480129794.bin
+firmware/Tapo_C610v1_en_1.1.0_Build_250701_Rel.68042n_up_boot-signed_1755480309817.bin
 firmware/Tapo_C615G_en_1.0.3_Build_250603_Rel.53965n_up_boot-signed_1751506632916.bin
 firmware/Tapo_C615G_en_1.0.3_Build_250603_Rel.53965n_up_boot-signed_1751870276762.bin
 firmware/Tapo_C615G_en_1.0.5_Build_250709_Rel.65336n_up_boot-signed_1753951063995.bin
@@ -29700,6 +29706,7 @@ firmware/assigned/MD5_492bccd6f8922c8a02940c14b8b7d846_RV50_Pro_1.0.1_Build_2508
 firmware/assigned/MD5_4bf8f8f4f6806fc3fc8d5f6c80ff512c_RV30C_Mop_Plus_1.0.3_Build_240522_Rel.162657__1716990018211.scv
 firmware/assigned/MD5_4c7f10241fb3f94789a326156fc61f6c_RV30_Max_Debug_1.2.22_Build_250501_Rel.170814_1744857605340.scv
 firmware/assigned/MD5_4cb1d30dc8fdc590d989f01f99ae90d9_RV30_Max_1.1.8_Build_241014_Rel.174045_1729158026569.scv
+firmware/assigned/MD5_4e9d1c74d755388d015273f6f9728092_RV50_Pro_1.0.1_Build_250816_Rel.222955_1755400805413.scv
 firmware/assigned/MD5_508bf5ce4eb209ca93f410e2cf234238aa88631d_RV30_Max_1.2.0_Build_241204_Rel.142641_1734180003025.scv
 firmware/assigned/MD5_508bf5ce4eb209ca93f410e2cf234238aa88631d__RV30_Max_1.2.0_Build_241204_Rel.142641_1734084001927.scv
 firmware/assigned/MD5_510fea2c3630e52bc1dd6f8bfba573c9_RV20_Max_Debug_1.1.1_Build_250228_Rel.111937_1742462404946.scv
@@ -35522,6 +35529,7 @@ firmware/ax6000v2-ax6000v1-up-ver1-4-2-P1[20250603-rel65464]_sign_2025-06-04_09.
 firmware/ax6000v2-ax6000v1-up-ver1-4-2-P1[20250603-rel65464]_sign_2025-06-04_09.08.56_1751504758583.bin
 firmware/ax6000v2-ax6000v1-up-ver1-4-2-P1[20250603-rel65464]_sign_2025-06-04_09.08.56_1751504788089.bin.rollback
 firmware/ax6000v2-ax6000v1-up-ver1-4-2-P1[20250603-rel65464]_sign_2025-06-04_09.08.56_1751607618192.bin.rollback
+firmware/ax6000v2-ax6000v1-up-ver1-4-3-P1[20250725-rel18118]_sign_2025-07-25_14.13.50_1755480241653.bin
 firmware/ax6000v2-up-ver1-0-1-P120210202-rel73413_signe_1614914623166.bin
 firmware/ax6000v2-up-ver1-0-1-P120210202-rel73413_signe_1619504682066.bin
 firmware/ax6000v2-up-ver1-0-2-P120210414-rel41198_signe_1619661016749.bin
