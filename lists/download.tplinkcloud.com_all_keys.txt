@@ -34067,7 +34067,8 @@ firmware/assigned/Tapo_C615G_en_1.0.4_Build_250701_Rel.64645n_up_boot-signed_175
 firmware/assigned/Tapo_C615G_en_1.0.4_Build_250701_Rel.64645n_up_boot-signed_1751421634220.bin
 firmware/assigned/Tapo_C615G_en_1.0.4_Build_250707_Rel.61242n_up_boot-signed _1753098003422.bin
 firmware/assigned/Tapo_C615G_en_1.0.4_Build_250707_Rel.61242n_up_boot-signed_1751940008227.bin
-firmware/assigned/Tapo_C615G_en_1.0.4_Build_250821_Rel.77120n_up_boot-signed_1755853236251.bin
+firmware/assigned/Tapo_C615G_en_1.0.4_Build_250821_Rel.77120n_up_boot-signed_1755853236251.bin.rollback
+firmware/assigned/Tapo_C615G_en_1.0.4_Build_250822_Rel.66221n_up_boot-signed_1755946887340.bin
 firmware/assigned/Tapo_C615G_en_1.0.5_Build_250707_Rel.49975n_up_boot-signed_1751886016075.bin
 firmware/assigned/Tapo_C615G_en_1.0.5_Build_250709_Rel.65336n_up_boot-signed_1755660004296.bin.rollback
 firmware/assigned/Tapo_C615G_en_1.0.5_Build_250717_Rel.40892n_up_boot-signed_1752733212708.bin
@@ -34089,6 +34090,7 @@ firmware/assigned/Tapo_C630v1_en_1.0.2_Build_250812_Rel.86299n_up_boot-signed_17
 firmware/assigned/Tapo_C630v1_en_1.0.2_Build_250814_Rel.61627n_up_boot-signed_1755165607254.bin
 firmware/assigned/Tapo_C630v1_en_1.0.2_Build_250814_Rel.78893n_up_boot-signed_1755183690376.bin
 firmware/assigned/Tapo_C630v1_en_1.0.2_Build_250818_Rel.79826n_up_boot-signed_1755528004063.bin
+firmware/assigned/Tapo_C630v1_en_1.0.3_Build_250822_Rel.65815n_up_boot-signed_1755924004648.bin
 firmware/assigned/Tapo_C645D_en_1.0.3_Build_250627_Rel.58612n_up_boot-signed_1751425212060.bin
 firmware/assigned/Tapo_C645D_en_1.0.3_Build_250627_Rel.60839n_up_boot-signed_1751523757743.bin
 firmware/assigned/Tapo_C645D_en_1.0.4_Build_250711_Rel.58626n_up_boot-signed_1752226838778.bin
