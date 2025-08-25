@@ -8164,6 +8164,7 @@ firmware/LBM100_UPsmartBulb_FCC_1.6.0_Build_170703_Rel_1506504378505.bin
 firmware/LBM100_UPsmartBulb_FCC_1.6.0_Build_170703_Rel_1506504423786.bin
 firmware/LM400V1_UN_1.0.5_Build_241218_Rel.170315_2024-12-18_17.05.06_1748231534041.bin
 firmware/LM400V1_UN_1.0.5_Build_241218_Rel.170315_2024-12-18_17.05.06_1752054723461.bin
+firmware/LM450V1_UN_1.0.9_Build_250718_Rel.165940_2025-07-18_17.00.17_1756021027133.bin
 firmware/LM500V3_UN_1.0.10_Build_221129_Rel.193015_2022_1674965225260.bin
 firmware/LM500V3_UN_1.0.10_Build_221129_Rel.193015_2022_1674965245253.bin
 firmware/LM500V3_UN_1.0.10_Build_221129_Rel.193015_2022_1674965264520.bin
@@ -28729,6 +28730,7 @@ firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250729-rel82941]-signed_175386004
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250808-rel37960]-signed_1754985610434.bin
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250812-rel34281]-signed_1754994099018.bin.rollback
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250815-rel27601]-signed_1755225624088.bin
+firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250822-rel65691]-signed_1756033220063.bin
 firmware/assigned/H500-up-ver1-0-0-P1[20231225-rel32175]-signed_1704450047915.bin
 firmware/assigned/H500-up-ver1-0-3-P1[20240408-rel19958]-signed_1712559649105.bin
 firmware/assigned/H500-up-ver1-0-4-P1[20240715-rel35489]-signed_1722577286766.bin
@@ -36871,6 +36873,7 @@ firmware/be800v1-up-us-ver1-2-3-P1[20250314-rel45415]_nosign_2025-03-14_22.26.10
 firmware/be800v1-up-us-ver1-2-3-P1[20250314-rel45415]_nosign_2025-03-14_22.26.10_1744176167974.bin
 firmware/be800v1-up-us-ver1-2-3-P1[20250314-rel45415]_nosign_2025-03-14_22.26.10_1744177954197.bin
 firmware/be800v1-up-us-ver1-2-3-P1[20250314-rel45415]_nosign_2025-03-14_22.26.10_1744183681138.bin
+firmware/be800v1-up-us-ver1-3-1-P1[20250724-rel34636]_nosign_2025-07-24_19.28.39_1756084930847.bin
 firmware/be805v1-be805v1.20-up-all-ver1-1-0-P1[20241025-rel65140]_2048_signed_2024-10-28_09.34.50_1732846098831.bin
 firmware/be805v1-be805v1.20-up-all-ver1-1-2-P1[20241210-rel67416]_2048_signed_2024-12-10_18.58.38_1734359940373.bin
 firmware/be805v1-be805v1.20-up-all-ver1-2-0-P1[20250304-rel55148]_2048_signed_2025-03-04_15.33.03_1743498978003.bin
