@@ -5192,6 +5192,8 @@ firmware/EB810vv1_0.19.0_3.0.0_UP_BOOT_2025-05-10_15.08.36_1752045768420.bin
 firmware/EB810vv1_0.19.0_3.0.0_UP_BOOT_2025-05-10_15.08.36_1752131258023.bin
 firmware/EB810vv1_0.19.0_3.0.0_UP_BOOT_2025-05-10_15.08.36_1753760291673.bin
 firmware/EB810vv1_0.19.0_3.0.0_UP_BOOT_2025-05-10_15.08.36_1753791735996.bin
+firmware/EB810vv1_0.19.0_3.0.0_UP_BOOT_2025-05-10_15.08.36_1756352230580.bin
+firmware/EB810vv1_0.19.0_3.0.0_UP_BOOT_2025-05-10_15.08.36_1756359432936.bin
 firmware/EB810vv1_0.3.0_3.0.0_ENCRYPT_ALLIN_BOOT_2024-12-10_11.10.33_1735819702662.bin
 firmware/EB810vv1_0.3.0_3.0.0_UP_BOOT_2023-12-25_09.37.22_1707105254608.bin
 firmware/EB810vv1_0.3.0_3.0.0_UP_BOOT_2023-12-25_09.37.22_1707127765625.bin
@@ -14239,12 +14241,14 @@ firmware/SG2428LPv1_en_1.0.7_[20250307-rel72554]_up_1743641661614.bin
 firmware/SG2428LPv1_en_1.0.8_[20250628-rel72706]_up_1752800904623.bin
 firmware/SG2428Pv5_en_5.20.0_[20230818-rel72032]_up_1703574443526.bin
 firmware/SG2428Pv5_en_5.20.11_[20250307-rel72554]_up_1743641715304.bin
+firmware/SG2428Pv5_en_5.20.14_[20250818-rel65242]_up_1756360431518.bin
 firmware/SG2428Pv5_en_5.20.2_[20240115-rel72847]_up_1709879266336.bin
 firmware/SG2428Pv5_en_5.20.4_[20240920-rel36048]_up_1728885376360.bin.rollback
 firmware/SG2428Pv5_en_5.20.5_[20241104-rel40492]_up_1732180180889.bin.rollback
 firmware/SG2428Pv5_en_5.20.6_[20241205-rel64944]_up_1733891895475.bin
 firmware/SG2428Pv5_en_5.20.7_[20250117-rel60471]_up_1737712824650.bin
 firmware/SG2428Pv5_en_5.30.0_[20240111-rel54073]_up_1706866825118.bin
+firmware/SG2428Pv5_en_5.30.10_[20250818-rel65242]_up_1756360703950.bin
 firmware/SG2428Pv5_en_5.30.1_[20240202-rel61907]_up_1710482243780.bin
 firmware/SG2428Pv5_en_5.30.3_[20241206-rel65017]_up_1733892732801.bin.rollback
 firmware/SG2428Pv5_en_5.30.4_[20241218-rel61205]_up_1734956178335.bin
@@ -14326,6 +14330,7 @@ firmware/SG3428XMPv3_en_3.20.0_[20231019-rel60485]_up_1703589994941.bin
 firmware/SG3428XMPv3_en_3.20.10_[20250307-rel72795]_up_1741947847855.bin
 firmware/SG3428XMPv3_en_3.20.11_[20250430-rel43731]_up_1747735634675.bin
 firmware/SG3428XMPv3_en_3.20.12_[20250628-rel73019]_up_1752023566227.bin
+firmware/SG3428XMPv3_en_3.20.14_[20250818-rel65537]_up_1756360494116.bin
 firmware/SG3428XMPv3_en_3.20.1_[20240807-rel61366]_up_1724328089520.bin.rollback
 firmware/SG3428XMPv3_en_3.20.2_[20240920-rel36317]_up_1728974683791.bin.rollback
 firmware/SG3428XMPv3_en_3.20.3_[20241016-rel49844]_up_1730281068761.bin.rollback
@@ -14375,6 +14380,7 @@ firmware/SG3452XMPPv1_en_1.0.7_[20250422-rel77329]_up_1747287865329.bin
 firmware/SG3452XMPPv1_en_1.0.8_[20250628-rel74046]_up_1752455640067.bin
 firmware/SG3452XPv2_en_2.20.10_[20250422-rel77329]_up_1747705529729.bin
 firmware/SG3452XPv2_en_2.20.11_[20250628-rel74046]_up_1751936825416.bin
+firmware/SG3452XPv2_en_2.20.13_[20250818-rel66592]_up_1756360717455.bin
 firmware/SG3452XPv2_en_2.20.1_[20231115-rel68992]_up_1701758698748.bin
 firmware/SG3452XPv2_en_2.20.3_[20240807-rel63028]_up_1724328139536.bin.rollback
 firmware/SG3452XPv2_en_2.20.4_[20240920-rel37398]_up_1727431883038.bin.rollback
@@ -14483,6 +14489,7 @@ firmware/SX3008Fv1_en_1.20.1_[20240920-rel39332]_up_1728977160736.bin.rollback
 firmware/SX3008Fv1_en_1.20.2_[20241206-rel39596]_up_1735287963450.bin
 firmware/SX3008Fv1_en_1.20.3_[20250121-rel53296]_up_1739760843594.bin
 firmware/SX3008Fv1_en_1.20.7_[20250430-rel44686]_up_1747704237293.bin
+firmware/SX3016Fv1_en_1.20.10_[20250818-rel69576]_up_1756379286877.bin
 firmware/SX3016Fv1_en_1.20.1_[20231030-rel65774]_up_1703590073939.bin
 firmware/SX3016Fv1_en_1.20.2_[20240807-rel64539]_up_1724326657368.bin.rollback
 firmware/SX3016Fv1_en_1.20.3_[20240920-rel38393]_up_1728977341136.bin.rollback
@@ -15030,6 +15037,7 @@ firmware/TL-SG2428Pv3_en_3.0.10_[20250121-rel50059]_up_1739762249284.bin
 firmware/TL-SG2428Pv3_en_3.0.14_[20250307-rel72795]_up_1741946826477.bin
 firmware/TL-SG2428Pv3_en_3.0.15_[20250430-rel43731]_up_1747808668717.bin
 firmware/TL-SG2428Pv3_en_3.0.16_[20250628-rel73019]_up_1752820803159.bin
+firmware/TL-SG2428Pv3_en_3.0.18_[20250818-rel65537]_up_1756360744002.bin
 firmware/TL-SG2428Pv3_en_3.0.1_20220707_rel59362_up_1661744582856.bin.rollback
 firmware/TL-SG2428Pv3_en_3.0.2_20220909-rel75879_up_1663066503420.bin
 firmware/TL-SG2428Pv3_en_3.0.3_20221021-rel62172_up_1669108055176.bin
@@ -15044,6 +15052,7 @@ firmware/TL-SG2428Pv4_en_4.0.10_[20240920-rel36048]_up_1728886034052.bin.rollbac
 firmware/TL-SG2428Pv4_en_4.0.11_[20241104-rel40492]_up_1732177838988.bin.rollback
 firmware/TL-SG2428Pv4_en_4.0.12_[20241205-rel64944]_up_1734956190578.bin
 firmware/TL-SG2428Pv4_en_4.0.13_[20250117-rel60471]_up_1737712418363.bin
+firmware/TL-SG2428Pv4_en_4.0.20_[20250818-rel65242]_up_1756360386805.bin
 firmware/TL-SG2428Pv4_en_4.0.2_20220624_rel60744_up_1661744507453.bin.rollback
 firmware/TL-SG2428Pv4_en_4.0.3_20220909_rel75248_up_1663066342118.bin
 firmware/TL-SG2428Pv4_en_4.0.4_20221021-rel61625_up_1669966736494.bin
@@ -15190,6 +15199,7 @@ firmware/TL-SG3428XMPv2_en_2.0.0_20220301-rel54959_up_1652359997110.bin
 firmware/TL-SG3428XMPv2_en_2.0.13_[20250307-rel72795]_up_1741949788850.bin
 firmware/TL-SG3428XMPv2_en_2.0.14_[20250430-rel43731]_up_1747808801991.bin
 firmware/TL-SG3428XMPv2_en_2.0.15_[20250612-rel53945]_up_1750152135486.bin
+firmware/TL-SG3428XMPv2_en_2.0.18_[20250818-rel65537]_up_1756361225933.bin
 firmware/TL-SG3428XMPv2_en_2.0.1_20220707_rel59362_up_1661758073639.bin.rollback
 firmware/TL-SG3428XMPv2_en_2.0.2_20220909-rel75879_up_1663066386134.bin
 firmware/TL-SG3428XMPv2_en_2.0.3_20221021-rel62172_up_1669337817178.bin
@@ -18797,6 +18807,7 @@ firmware/Tapo_C615G_en_1.0.3_Build_250603_Rel.53965n_up_boot-signed_175150663291
 firmware/Tapo_C615G_en_1.0.3_Build_250603_Rel.53965n_up_boot-signed_1751870276762.bin
 firmware/Tapo_C615G_en_1.0.5_Build_250709_Rel.65336n_up_boot-signed_1753951063995.bin
 firmware/Tapo_C615G_en_1.0.5_Build_250709_Rel.65336n_up_boot-signed_1754027538497.bin
+firmware/Tapo_C630v1_en_1.0.2_Build_250813_Rel.62531n_up_boot-signed_1756429733539.bin
 firmware/Tapo_C660_en_1.0.11_Build_250430_Rel.54497n_up_boot-signed_1747728433245.bin
 firmware/Tapo_C660_en_1.0.11_Build_250430_Rel.54497n_up_boot-signed_1747729440184.bin
 firmware/Tapo_C660_en_1.0.11_Build_250430_Rel.54497n_up_boot-signed_1747729449074.bin
@@ -27738,6 +27749,7 @@ firmware/assigned/DL110V2_US_99.99.99_Build_250728_Rel.165442_2025-07-28_16.56.3
 firmware/assigned/DL110V2_US_99.99.99_Build_250728_Rel.165442_2025-07-28_16.56.30_1754875200801.bin
 firmware/assigned/DL110V2_US_99.99.99_Build_250728_Rel.165442_2025-07-28_16.56.30_1756274400770.bin.rollback
 firmware/assigned/DL110V2_US_99.99.99_Build_250728_Rel.165442_2025-07-28_16.56.30_1756275600785.bin
+firmware/assigned/DL110V2_US_99.99.99_Build_250728_Rel.165442_2025-07-28_16.56.30_1756352478124.bin
 firmware/assigned/DL110_US_1.0.10_Build_240524_Rel.101833_2024-05-24_10.23.10_1716518404199.bin
 firmware/assigned/DL110_US_1.0.10_Build_240524_Rel.112358_2024-05-24_11.25.40_1716542403942.bin
 firmware/assigned/DL110_US_1.0.10_Build_240524_Rel.121811_2024-05-24_15.11.52_1716795603950.bin
@@ -27918,6 +27930,7 @@ firmware/assigned/DL130_US_1.0.5_Build_250808_Rel.165435_2025-08-08_16.56.29_175
 firmware/assigned/DL130_US_1.0.5_Build_250808_Rel.165435_2025-08-08_16.56.29_1755138000914.bin
 firmware/assigned/DL130_US_1.0.5_Build_250808_Rel.165435_2025-08-08_16.56.29_1756192801208.bin
 firmware/assigned/DL130_US_1.0.5_Build_250808_Rel.165435_2025-08-08_16.56.29_1756192803809.bin
+firmware/assigned/DL130_US_1.0.5_Build_250822_Rel.180344-signed_1756372800840.bin
 firmware/assigned/DL210_EU_1.0.0_Build_250820_Rel.153159_2025-08-20_15.36.31_1755676800903.bin
 firmware/assigned/DL210_EU_1.0.0_Build_250822_Rel.120602_2025-08-22_12.09.32_1755840000813.bin
 firmware/assigned/DL210_EU_1.0.0_Build_250822_Rel.151001_2025-08-22_15.12.00_1755847200784.bin
@@ -29430,6 +29443,8 @@ firmware/assigned/L901_UN_1.4.2_Build_250715_Rel.105332_2025-07-15_11.07.39_1753
 firmware/assigned/L901_UN_1.4.2_Build_250805_Rel.103410-signed_1756106400903.bin.rollback
 firmware/assigned/L901_UN_1.4.2_Build_250805_Rel.103410-signed_1756112441029.bin.rollback
 firmware/assigned/L901_UN_1.4.2_Build_250805_Rel.103410-signed_1756118400750.bin
+firmware/assigned/L901_UN_1.4.2_Build_250821_Rel.211320-signed_1756350053068.bin
+firmware/assigned/L901_UN_1.4.3_Build_250827_Rel.143859-signed_1756351218891.bin
 firmware/assigned/L920_UN_1.1.0_Build_230905_Rel.190143_2023-09-05_19.04.56_1694072408026.bin
 firmware/assigned/L920_UN_1.1.0_Build_231025_Rel.164545_2023-10-25_16.52.05_1698310822128.bin
 firmware/assigned/L920_UN_1.1.0_Build_231109_Rel.095712_2023-11-09_10.00.13_1699516802826.bin
@@ -30049,6 +30064,7 @@ firmware/assigned/MD5_BEE28C91404C1BD506BECDBA6EDE86C2_RVSD30_1.0.0_Build_250715
 firmware/assigned/MD5_C8699920384E7773C48AE7F27ABF08B7_RVSD30_1.0.0_Build_250726_Rel.69080.bin_1753750837075.gz
 firmware/assigned/MD5_C964F8958A3AEABD7BA948FF6B7F9253_RVSD30_1.0.0_Build_250613_Rel.69080.bin_1749872414878.gz
 firmware/assigned/MD5_D230731BFB2E90B74FBE99128045002C_RVSD30_1.0.0_Build_250804_Rel.69079.bin_1754359229731.gz
+firmware/assigned/MD5_D9EC2625627FC6630F273AFFE1AF0692_RVSD30_1.0.0_Build_250827_Rel.69080.bin_1756359648031.gz
 firmware/assigned/MD5_E2DEB73EAA1ABC14C43F90BBEC67ABF7_RVSD30_1.0.0_Build_250627_Rel.69080.bin_1751084411893.gz
 firmware/assigned/MD5_E6B33BC062B419195B444EBD1CB28F94_RVSD30_1.0.0_Build_250716_Rel.69083.bin_1752716454934.gz
 firmware/assigned/MD5_EF686B951B90B5CFB69EEF9C2CCD211A_RVSD30_1.0.0_Build_250801_Rel.21087.bin_1754050896132.gz
@@ -30265,6 +30281,7 @@ firmware/assigned/NE211-Outdoor(PLPLUS)v1_1.0.0_3.0.0_Build_250813_Rel.71022n_UP
 firmware/assigned/NE211-Outdoor(PLPLUS)v1_1.0.0_3.0.0_Build_250815_Rel.35154n_UP_BOOT_beta_2025-08-15_11.18.45_1755230403791.bin
 firmware/assigned/NE211-Outdoor(PLTM)v1_1.0.0_3.0.0_Build_250429_Rel.69307n_UP_BOOT_2025-04-29_22.04.38_1752129602396.bin.rollback
 firmware/assigned/NE211-Outdoor(PLTM)v1_1.0.0_3.0.0_Build_250429_Rel.69307n_UP_BOOT_2025-04-29_22.04.38_1752147604014.bin
+firmware/assigned/NE225-Outdoor(LTT2)v1_1.1.0_3.0.0_UP_BOOT_2025-08-28_10.55.38_1756351215205.bin
 firmware/assigned/NE225-Outdoor(NONGT)v1_1.1.0_3.0.0_UP_BOOT_2025-08-15_10.12.07_1755225681044.bin
 firmware/assigned/NX220(KZT2)v1_1.1.0_3.0.0_UP_BOOT_beta_2024-07-17_19.46.39_1725362571788.bin
 firmware/assigned/NX220(PLPLUS)v1_1.0.0_3.0.0_UP_BOOT_beta_2025-03-05_21.11.12_1747038082795.bin.rollback
@@ -30671,6 +30688,11 @@ firmware/assigned/P110_UN_1.3.5_Build_250610_Rel.141617_2025-06-10_14.17.09_1750
 firmware/assigned/P110_UN_1.3.5_Build_250610_Rel.141617_2025-06-10_14.17.09_1751350800694.bin
 firmware/assigned/P110_UN_1.4.0_Build_250725_Rel.092140_2025-07-25_09.28.43_1753408820198.bin
 firmware/assigned/P110_UN_1.4.0_Build_250725_Rel.152757_2025-07-25_15.28.56_1754624400761.ico
+firmware/assigned/P110_UN_1.4.0_Build_250819_Rel.095645_2025-08-19_09.57.41_1756349942693.bin
+firmware/assigned/P110_UN_1.4.0_Build_250819_Rel.095645_2025-08-19_09.57.41_1756352479998.bin
+firmware/assigned/P110_UN_1.4.0_Build_250819_Rel.095645_2025-08-19_09.57.41_1756362000712.bin
+firmware/assigned/P110_UN_1.5.0_Build_250820_Rel.185812_2025-08-20_19.02.35_1756353650893.bin.rollback
+firmware/assigned/P110_UN_1.5.0_Build_250820_Rel.185812_2025-08-20_19.02.35_1756371602337.bin
 firmware/assigned/P110_UN_4.0.0_Build_231215_Rel.102656_2023-12-15_10.29.19_1702647666600.bin
 firmware/assigned/P110_UN_4.0.0_Build_231215_Rel.102656_2023-12-15_10.29.19_1702890042109.bin
 firmware/assigned/P110_UN_4.0.0_Build_231215_Rel.102656_2023-12-15_10.29.19_1702890058600.bin
@@ -30835,6 +30857,7 @@ firmware/assigned/P410M_UN_1.3.99_Build_250716_Rel.160706_2025-07-16_16.10.19_17
 firmware/assigned/P410M_UN_1.4.0_Build_250724_Rel.145749_2025-07-24_14.58.57_1754532000839.bin
 firmware/assigned/P410M_UN_1.4.0_Build_250724_Rel.145749_2025-07-24_14.58.57_1755512400729.bin
 firmware/assigned/P410M_UN_1.4.0_Build_250815_Rel.102041_2025-08-15_10.22.24_1756276800703.bin
+firmware/assigned/P410M_UN_1.4.0_Build_250815_Rel.110204_2025-08-15_11.08.49_1756344000707.bin
 firmware/assigned/P430M_US_1.0.1_Build_241213_Rel.194001_2024-12-13_19.42.21_1734091205385.bin
 firmware/assigned/P430M_US_1.0.1_Build_250110_Rel.171153_2025-01-10_17.13.09_1738893600695.bin
 firmware/assigned/P430M_US_1.0.2_Build_250304_Rel.171447_2025-03-04_17.16.08_1741864800712.bin
@@ -32307,6 +32330,7 @@ firmware/assigned/Tapo_C230v1_en_1.3.2_Build_250604_Rel.70554n_up_boot-signed_17
 firmware/assigned/Tapo_C230v1_en_1.3.2_Build_250618_Rel.58325n_up_boot-signed_1750762816910.bin
 firmware/assigned/Tapo_C230v1_en_1.3.2_Build_250722_Rel.58759n_up_boot-signed_1753356002650.bin
 firmware/assigned/Tapo_C230v1_en_1.3.2_Build_250801_Rel.53161n_up_boot-signed_1754040002183.bin
+firmware/assigned/Tapo_C230v1_en_1.4.1_Build_250819_Rel.44155n_up_boot-signed_1756352475174.bin
 firmware/assigned/Tapo_C230v1_en_1.4.2_Build_250422_Rel.52906n_up_boot-signed_1745314801544.bin
 firmware/assigned/Tapo_C232v1_en_1.0.1_Build_241227_Rel.35571n_up_boot-signed_1737702089108.bin
 firmware/assigned/Tapo_C232v1_en_1.0.3_Build_250403_Rel.64111n_up_boot-signed_1750762823216.bin
@@ -32471,6 +32495,7 @@ firmware/assigned/Tapo_C310v2_en_1.4.2_Build_250610_Rel.36726n_up_boot-signed_17
 firmware/assigned/Tapo_C310v2_en_1.4.2_Build_250610_Rel.36726n_up_boot-signed_1749614401416.bin
 firmware/assigned/Tapo_C310v2_en_1.4.3_Build_250610_Rel.56921n_up_boot-signed_1749555644898.bin
 firmware/assigned/Tapo_C310v2_en_1.4.3_Build_250623_Rel.57063n_up_boot-signed_1750668014131.bin
+firmware/assigned/Tapo_C310v2_en_1.4.3_Build_250623_Rel.57063n_up_boot-signed_1756359702521.bin
 firmware/assigned/Tapo_C310v2_en_1.4.3_Build_250630_Rel.35085n_up_boot-signed_1751277602519.bin
 firmware/assigned/Tapo_C310v2_en_1.4.3_Build_250630_Rel.62699n_up_boot-signed_1751278803080.bin
 firmware/assigned/Tapo_C310v2_en_1.4.3_Build_250702_Rel.44122n_up_boot-signed_1751436010836.bin
@@ -32508,6 +32533,8 @@ firmware/assigned/Tapo_C320WSv1_en_1.4.1_Build_250106_Rel.44456n_up_boot-signed_
 firmware/assigned/Tapo_C320WSv1_en_1.4.1_Build_250106_Rel.44456n_up_boot-signed_1737872418581.bin
 firmware/assigned/Tapo_C320WSv1_en_1.4.1_Build_250415_Rel.58830n_up_boot-signed_1744887606124.bin
 firmware/assigned/Tapo_C320WSv1_en_1.4.1_Build_250711_Rel.66054n_up_boot-signed_1752457201557.bin
+firmware/assigned/Tapo_C320WSv1_en_1.4.2_Build_250725_Rel.72234n_up_boot-signed_1756375230121.bin
+firmware/assigned/Tapo_C320WSv1_en_1.4.2_Build_250816_Rel.35161n_up_boot-signed_1756360801975.bin
 firmware/assigned/Tapo_C320WSv2_en_1.0.10_Build_231102_Rel.61172n_up_boot_signed_1698975651033.bin
 firmware/assigned/Tapo_C320WSv2_en_1.0.10_Build_231102_Rel.66223n_up_boot-signed_1699438829706.bin
 firmware/assigned/Tapo_C320WSv2_en_1.0.10_Build_231115_Rel.62753n_up_boot_signed_1700120429286.bin
@@ -32706,6 +32733,7 @@ firmware/assigned/Tapo_C400v2_en_1.0.8_Build_250506_Rel.46115n_up_boot-signed_17
 firmware/assigned/Tapo_C400v2_en_1.1.0_Build_250701_Rel.37438n_up_boot-signed_1751340008241.bin
 firmware/assigned/Tapo_C400v2_en_1.1.0_Build_250815_Rel.54513n_up_boot-signed_1755246017729.bin
 firmware/assigned/Tapo_C400v2_en_1.1.1_Build_250709_Rel.35575n_up_boot-signed_1752812425957.bin
+firmware/assigned/Tapo_C400v2_en_1.1.2_Build_250709_Rel.35575n_up_boot-signed_1756362033883.bin
 firmware/assigned/Tapo_C400v2_en_1.1.2_Build_250731_Rel.65214n_up_boot-signed_1755775202885.bin
 firmware/assigned/Tapo_C410v1_20_en_1.0.0_Build_240620_Rel.60317n_up_boot-signed_1720064428853.bin
 firmware/assigned/Tapo_C410v1_20_en_1.0.0_Build_240627_Rel.37278n_up_boot-signed_1720078827790.bin
@@ -32888,6 +32916,7 @@ firmware/assigned/Tapo_C410v1_en_1.0.24_Build_250617_Rel.52753n_up_boot-signed_1
 firmware/assigned/Tapo_C410v1_en_1.0.24_Build_250620_Rel.64423n_up_boot-signed_1750414802715.bin
 firmware/assigned/Tapo_C410v1_en_1.0.24_Build_250627_Rel.42270n_up_boot-signed_1751005203034.bin
 firmware/assigned/Tapo_C410v1_en_1.0.24_Build_250709_Rel.64314n_up_boot-signed_1752138007161.bin
+firmware/assigned/Tapo_C410v1_en_1.0.24_Build_250709_Rel.64314n_up_boot-signed_1756362029809.bin
 firmware/assigned/Tapo_C410v1_en_1.0.3_Build_231103_Rel.38965n_up_boot-signed_1699513227034.bin.rollback
 firmware/assigned/Tapo_C410v1_en_1.0.3_Build_231104_Rel.38965n_up_boot-signed_1699520435726.bin.rollback
 firmware/assigned/Tapo_C410v1_en_1.0.4_Build_231110_Rel.56776n_up_boot-signed_InnerFEM_1699947626036.bin.rollback
@@ -33083,6 +33112,7 @@ firmware/assigned/Tapo_C425v1_20_en_1.2.23_Build_250122_Rel.52359n_up_boot-signe
 firmware/assigned/Tapo_C425v1_20_en_1.2.23_Build_250122_Rel.52359n_up_boot-signed_1737536470637.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.23_Build_250123_Rel.72645n_up_boot-signed_1737706857233.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.23_Build_250124_Rel.63609n_up_boot-signed_1737855641128.bin
+firmware/assigned/Tapo_C425v1_20_en_1.2.24_Build_241204_Rel.54614n_up_boot-signed_1756351204841.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.24_Build_250103_Rel.70731n_up_boot-signed_1736217603205.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.24_Build_250106_Rel.75530n_up_boot-signed_1737097215578.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.24_Build_250108_Rel.75530n_up_boot-signed_1737019243895.bin.rollback
@@ -33134,6 +33164,8 @@ firmware/assigned/Tapo_C425v1_20_en_1.2.25_Build_250818_Rel.70424n_up_boot-signe
 firmware/assigned/Tapo_C425v1_20_en_1.2.26_Build_250403_Rel.34480n_up_boot-signed_1743669617648.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.26_Build_250822_Rel.59928n_up_boot-signed_1756212092948.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.26_Build_250822_Rel.59928n_up_boot-signed_1756287662020.bin
+firmware/assigned/Tapo_C425v1_20_en_1.2.26_Build_250822_Rel.59928n_up_boot-signed_1756349939336.bin
+firmware/assigned/Tapo_C425v1_20_en_1.2.26_Build_250822_Rel.59928n_up_boot-signed_1756353648566.bin
 firmware/assigned/Tapo_C425v1_20_en_1.2.26_Build_250823_Rel.50276n_up_boot-signed_1756285210047.bin
 firmware/assigned/Tapo_C425v1_en_1.0.1_Build_230302_Rel.73910n_up_boot-signed_1677844831376.bin.rollback
 firmware/assigned/Tapo_C425v1_en_1.0.1_Build_230302_Rel.73910n_up_boot-signed_1677849631328.bin.rollback
@@ -33457,6 +33489,7 @@ firmware/assigned/Tapo_C460v1_en_1.1.9_Build_250806_Rel.36210n_up_boot2-signed_1
 firmware/assigned/Tapo_C460v1_en_1.1.9_Build_250815_Rel.56729n_up_boot2-signed_1755254416087.bin
 firmware/assigned/Tapo_C460v1_en_1.2.0_Build_250815_Rel.42062n_up_boot2-signed_1755756014448.bin
 firmware/assigned/Tapo_C460v1_en_1.2.0_Build_250827_Rel.62129n_up_boot2-signed_1756287703493.bin
+firmware/assigned/Tapo_C460v1_en_1.2.0_Build_250828_Rel.36343n_up_boot2-signed_1756348876625.bin
 firmware/assigned/Tapo_C465v1_en_1.0.0_Build_250605_Rel.58230n_up_boot2-signed_1749544841830.bin
 firmware/assigned/Tapo_C465v1_en_1.0.0_Build_250619_Rel.58636n_up_boot2-signed_1750765209002.bin
 firmware/assigned/Tapo_C465v1_en_1.0.0_Build_250702_Rel.58636n_up_boot2-signed_1751529642373.bin
@@ -33800,6 +33833,7 @@ firmware/assigned/Tapo_C510Wv1_en_1.3.3_Build_250422_Rel.46385n_up_boot-signed_1
 firmware/assigned/Tapo_C510Wv1_en_1.3.3_Build_250423_Rel.60703n_up_boot-signed_1745403608332.bin
 firmware/assigned/Tapo_C510Wv1_en_1.3.3_Build_250703_Rel.59902n_up_boot-signed_1751619606376.bin
 firmware/assigned/Tapo_C510Wv1_en_1.3.3_Build_250807_Rel.71104n_up_boot-signed_1754643607377.bin
+firmware/assigned/Tapo_C510Wv1_en_1.3.3_Build_250807_Rel.71104n_up_boot-signed_1756352483394.bin
 firmware/assigned/Tapo_C510Wv1_en_1.3.3_Build_250826_Rel.59824n_up_boot-signed_1756206012052.bin
 firmware/assigned/Tapo_C510Wv2_en_1.0.5_Build_241216_Rel.59822n_up_boot-signed_1734427220567.bin
 firmware/assigned/Tapo_C510Wv2_en_1.1.2_Build_250228_Rel.53290n_up_boot-signed_1742565618382.bin
@@ -34085,6 +34119,7 @@ firmware/assigned/Tapo_C545Dv1_en_1.0.3_Build_250514_Rel.33159n_up_boot-signed_1
 firmware/assigned/Tapo_C545Dv1_en_1.0.5_Build_250616_Rel.65305n_up_boot-signed_1750168803401.bin
 firmware/assigned/Tapo_C545Dv1_en_1.2.0_Build_250814_Rel.74593n_up_boot-signed_1755770407750.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.10_Build_250611_Rel.65029n_up_boot-signed_1750041646155.bin
+firmware/assigned/Tapo_C560WSv1_en_1.0.11_Build_250704_Rel.43380n_up_boot-signed_1756346432911.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.13_Build_250715_Rel.59990n_up_boot-signed_1753410040077.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.13_Build_250718_Rel.58851n_up_boot-signed_1752831662627.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.13_Build_250727_Rel.54446n_up_boot_1753602084944.bin
@@ -34095,6 +34130,7 @@ firmware/assigned/Tapo_C560WSv1_en_1.0.14_Build_250817_Rel.58824n_up_boot-signed
 firmware/assigned/Tapo_C560WSv1_en_1.0.14_Build_250822_Rel.48099n_up_boot-signed_1755848440274.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.14_Build_250826_Rel.43994n_up_boot-signed_1756200077779.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.14_Build_250826_Rel.61637n_up_boot-signed_1756259947991.bin
+firmware/assigned/Tapo_C560WSv1_en_1.0.14_Build_250828_Rel.45483n_up_boot-signed_1756363219440.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.5_Build_250311_Rel.51315n_up_boot-signed_1742289644375.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.5_Build_250421_Rel.55789n_up_boot-signed_1745226035913.bin
 firmware/assigned/Tapo_C560WSv1_en_1.0.5_Build_250424_Rel.58407n_up_boot-signed_1745485215609.bin
@@ -34130,6 +34166,7 @@ firmware/assigned/Tapo_C610v1_en_1.1.0_Build_250701_Rel.68042n_up_boot-signed_17
 firmware/assigned/Tapo_C610v1_en_1.1.1_Build_250717_Rel.63803n_up_boot-signed_1753345203879.bin
 firmware/assigned/Tapo_C610v1_en_1.1.2_Build_250820_Rel.73297n_up_boot-signed_1755747616893.bin
 firmware/assigned/Tapo_C610v1_en_1.2.2_Build_250825_Rel.75499n_up_boot-signed_1756204822680.bin
+firmware/assigned/Tapo_C610v1_en_1.2.2_Build_250825_Rel.75499n_up_boot-signed_1756372807282.bin
 firmware/assigned/Tapo_C615F_en_1.0.0_Build_250515_Rel.64753n_up_boot-signed_1747627215486.bin
 firmware/assigned/Tapo_C615F_en_1.0.1_Build_250612_Rel.54343n_up_boot-signed_1749795601811.bin.rollback
 firmware/assigned/Tapo_C615F_en_1.1.1_Build_250711_Rel.58329n_up_boot-signed_1752234056211.bin
@@ -34206,6 +34243,7 @@ firmware/assigned/Tapo_C615G_en_1.0.5_Build_250723_Rel.60444n_up_boot-signed_175
 firmware/assigned/Tapo_C615G_en_1.0.5_Build_250813_Rel.38250n_up_boot-signed_1755742854562.bin.rollback
 firmware/assigned/Tapo_C615G_en_1.0.5_Build_250813_Rel.38250n_up_boot-signed_1755756010469.bin
 firmware/assigned/Tapo_C615G_en_1.0.5_Build_250819_Rel.75158n_up_boot-signed_1755609603698.bin
+firmware/assigned/Tapo_C615G_en_1.1.3_Build_250828_Rel.72741n_up_boot-signed_1756384863243.bin
 firmware/assigned/Tapo_C630v1_en_1.0.1_Build_250625_Rel.27724n_up_boot-signed_1750908061197.bin
 firmware/assigned/Tapo_C630v1_en_1.0.1_Build_250627_Rel.35537n_up_boot-signed_1751336419639.bin
 firmware/assigned/Tapo_C630v1_en_1.0.1_Build_250702_Rel.35537n_up_boot-signed_1751371210633.bin
@@ -34684,6 +34722,7 @@ firmware/assigned/Tapo_D210v1_en_1.0.18_Build_250515_Rel.63057n_up_boot-signed_1
 firmware/assigned/Tapo_D210v1_en_1.0.18_Build_250528_Rel.52285n_up_boot-signed_1750227621295.bin
 firmware/assigned/Tapo_D210v1_en_1.0.18_Build_250618_Rel.40455n_up_boot-signed_1750237288775.bin
 firmware/assigned/Tapo_D210v1_en_1.0.18_Build_250619_Rel.69436n_up_boot-signed_1750647603711.bin
+firmware/assigned/Tapo_D210v1_en_1.0.18_Build_250626_Rel.36592n_up_boot-signed_1756370436435.bin
 firmware/assigned/Tapo_D210v1_en_1.0.19_Build_250722_Rel.59492n_up_boot-signed_1754997611162.bin
 firmware/assigned/Tapo_D210v1_en_1.0.19_Build_250730_Rel.36307n_up_boot-signed_1754451601758.bin
 firmware/assigned/Tapo_D210v1_en_1.0.19_Build_250815_Rel.58783n_up_boot-signed_1755482402013.bin
@@ -34850,6 +34889,7 @@ firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.66076n_up_boot-signed_17
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.67467n_up_boot-signed_1752721263212.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250717_Rel.57550n_up_boot-signed_1753153237090.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.63059n_up_boot-signed_1754392805573.bin
+firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.63059n_up_boot-signed_1756350050154.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.64364n_up_boot-signed_1753760450315.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.64364n_up_boot-signed_1754634053296.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250724_Rel.64364n_up_boot-signed_1754913604471.bin
@@ -34862,6 +34902,7 @@ firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250821_Rel.54807n_up_boot-signed_17
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250821_Rel.64544n_up_boot-signed_1755826843687.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250825_Rel.58813n_up_boot-signed_1756120803842.bin
 firmware/assigned/Tapo_D235v1_en_1.2.1_Build_250821_Rel.46938n_up_boot-signed_1756281675751.bin
+firmware/assigned/Tapo_D235v1_en_1.2.1_Build_250821_Rel.46938n_up_boot-signed_1756366847622.bin
 firmware/assigned/Tapo_D235v1_en_1.2.1_Build_250822_Rel.62465n_up_boot-signed_1755861628081.bin
 firmware/assigned/Tapo_D315v1_en_2.0.1_Build_250717_Rel.70106n_up_boot-signed_1752752433493.bin.rollback
 firmware/assigned/Tapo_D315v1_en_2.0.1_Build_250719_Rel.63419n_up_boot-signed_1752919210923.bin
@@ -34968,6 +35009,7 @@ firmware/assigned/ghbgdaccabbaefdeiadhajbafcbeiegd_1668044418104.bin
 firmware/assigned/h200-0804_1754299202587.bin
 firmware/assigned/h70xv1_20_eu-up-ver1-2-2-P1[20230515-rel73868]_2023-05-16_16.11.10_1684237225479.bin
 firmware/assigned/high_EX221-G5V1_UP_2025-06-09_17.05.54_1749460815908.bin
+firmware/assigned/high_EX221-G5V1_UP_2025-08-23_14.57.42_1756346429219.bin.rollback
 firmware/assigned/high_HX520_UP_2025-08-08_18.09.29_1755488483832.bin
 firmware/assigned/jcefececjafiefebaaabegegihbadgdf_1671103203208.bin.rollback
 firmware/assigned/jiddajacfjdhebehbiadhccdfcaecice_1669962015963.bin
@@ -36872,6 +36914,7 @@ firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-0-3-P1[20250612-rel
 firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-0-3-P1[20250612-rel67216]_2025-06-12_18.44.01_1751860372391.bin
 firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-0-3-P1[20250612-rel67216]_2025-06-12_18.44.01_1752146548240.bin
 firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-0-4-P1[20250718-rel65370]_2025-07-24_10.27.57_1755856045019.bin
+firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-0-4-P1[20250718-rel65370]_2025-07-24_10.27.57_1756429675846.bin
 firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-1-0-P1[20250718-rel75864]_2025-07-18_21.12.21_1755594487913.bin
 firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-1-0-P1[20250718-rel75864]_2025-07-18_21.12.21_1755595820485.bin
 firmware/be68v1_be67v1-RSA2048--US_EU_JP_SG_HK_CA_AU-up-ver1-1-0-P1[20250718-rel75864]_2025-07-18_21.12.21_1755596239359.bin
@@ -41174,6 +41217,8 @@ firmware/xe75_2-SP4-EU-up-ver1-3-0-P1[20250722-rel38703]_2025-07-23_08.52.11_175
 firmware/xe75_2-SP4-EU-up-ver1-3-0-P1[20250722-rel38703]_2025-07-23_08.52.11_1755744922400.bin
 firmware/xe75_2-SP4-EU-up-ver1-3-0-P1[20250722-rel38703]_2025-07-23_08.52.11_1756206546671.bin
 firmware/xe75_2-SP4-EU-up-ver1-3-0-P1[20250722-rel38703]_2025-07-23_08.52.11_1756207339606.bin
+firmware/xe75_2-SP4-EU-up-ver1-3-0-P1[20250722-rel38703]_2025-07-23_08.52.11_1756353130069.bin
+firmware/xe75_2-SP4-EU-up-ver1-3-0-P1[20250722-rel38703]_2025-07-23_08.52.11_1756353209822.bin
 firmware/xe75prov1_1--up-ver1-4-1-P1[20240722-rel63119]-US_EU_2024-07-22_18.53.43_1722487103597.bin
 firmware/xe75prov1_1--up-ver1-4-1-P1[20240722-rel63119]-US_EU_2024-07-22_18.53.43_1722487199842.bin
 firmware/xe75prov1_1--up-ver1-4-1-P1[20240722-rel63119]-US_EU_2024-07-22_18.53.43_1722487294720.bin
