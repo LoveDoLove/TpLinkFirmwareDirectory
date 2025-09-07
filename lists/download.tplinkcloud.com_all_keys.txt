@@ -34577,6 +34577,7 @@ firmware/assigned/Tapo_C615G_en_1.1.3 Build 250828 Rel.69976n_up_boot-signed_175
 firmware/assigned/Tapo_C615G_en_1.1.3 Build 250903 Rel.68019n_up_boot-signed_1756952418690.bin
 firmware/assigned/Tapo_C615G_en_1.1.3 Build 250903 Rel.68019n_up_boot-signed_1757036404787.bin.rollback
 firmware/assigned/Tapo_C615G_en_1.1.3 Build 250903 Rel.68019n_up_boot-signed_1757057968466.bin.rollback
+firmware/assigned/Tapo_C615G_en_1.1.3 Build 250903 Rel.68019n_up_boot-signed_1757126472149.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250828_Rel.72741n_up_boot-signed_1756384863243.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250829_Rel.39304n_up_boot-signed_1756707612085.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250829_Rel.39304n_up_boot-signed_1756803603935.bin
