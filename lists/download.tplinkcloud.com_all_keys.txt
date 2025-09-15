@@ -29497,6 +29497,7 @@ firmware/assigned/KP115_FCC_1.0.22_Build_231219_Rel.194015_2023-12-19_19.43.48_1
 firmware/assigned/KP115_FCC_1.1.0_Build_250225_Rel.164809_2025-02-25_16.49.31_1741080081267.bin
 firmware/assigned/KP115_FCC_1.1.1_Build_250908_Rel.112945_2025-09-08_11.30.57_1757562004436.bin
 firmware/assigned/KP115_FCC_1.1.1_Build_250908_Rel.112945_2025-09-08_11.30.57_1757643611407.bin
+firmware/assigned/KP115_FCC_1.1.1_Build_250908_Rel.112945_2025-09-08_11.30.57_1757899200674.bin
 firmware/assigned/KP125M_UN_1.1.0_Build_230320_Rel.201502_2023-03-20_20.17.50_1679398796460.bin
 firmware/assigned/KP125M_UN_1.1.4_Build_231019_Rel.174214_2023-10-19_17.45.34_1698290404104.bin
 firmware/assigned/KP125M_UN_1.2.0_Build_231128_Rel.180834_2023-11-28_18.10.41_1702965618179.bin
@@ -30407,6 +30408,7 @@ firmware/assigned/MD5_9ec82c6d900ed09ae5584a0a39103abd_RV30_Plus_1.1.7_Build_230
 firmware/assigned/MD5_9f9479160a7ccb461dac7006e8c1f263_RV20_Mop_Plus_1.1.1_Build_230726_Rel.180219_1690516817158.scv.rollback
 firmware/assigned/MD5_A5C685A16783874E959EDC4D5D277198_RVSD30_1.0.0_Build_250812_Rel.8685.bin_1754979626118.gz
 firmware/assigned/MD5_A826D0179A589C38067DFDA94B26C2E4_RVSD30_1.0.0_Build_250623_Rel.69083.bin_1750729232231.gz
+firmware/assigned/MD5_A87A6D3B2573310E57CBAE4839C906BA_RVSD30_1.0.0_Build_250913_Rel.69099.bin_1757838067250.gz
 firmware/assigned/MD5_B6569CFB7CEC3AB431674C1447E397CF_RVSD30_1.0.0_Build_250707_Rel.69125.bin_1751935255442.gz
 firmware/assigned/MD5_BC5052EE26E9B604E357C88DAE813256_RVSD30_1.0.0_Build_250722_Rel.20492.bin_1753174816251.gz
 firmware/assigned/MD5_BEE28C91404C1BD506BECDBA6EDE86C2_RVSD30_1.0.0_Build_250715_Rel.69084.bin_1752631052472.gz
@@ -32810,6 +32812,7 @@ firmware/assigned/Tapo_C236v1_en_1.0.6_Build_250705_Rel.52702n_up_boot-signed_17
 firmware/assigned/Tapo_C236v1_en_1.0.6_Build_250707_Rel.65702n_up_boot-signed_1751955617326.bin
 firmware/assigned/Tapo_C236v1_en_1.0.6_Build_250731_Rel.58526n_up_boot-signed_1753952418698.bin
 firmware/assigned/Tapo_C236v1_en_1.0.6_Build_250801_Rel.63382n_up_boot-signed_1754392829536.bin
+firmware/assigned/Tapo_C236v1_en_1.2.1_Build_250908_Rel.76167n_up_boot-signed_1757857242348.bin
 firmware/assigned/Tapo_C245Dv1_en_1.0.0_Build_250808_Rel.52704n_up_boot-signed_1754883613127.bin
 firmware/assigned/Tapo_C245Dv1_en_1.0.0_Build_250812_Rel.34136n_up_boot-signed_1755002402737.bin
 firmware/assigned/Tapo_C245Dv1_en_1.2.0_Build_250804_Rel.62087n_up_boot-signed_1754376103357.bin
