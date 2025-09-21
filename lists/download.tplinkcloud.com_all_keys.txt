@@ -28800,6 +28800,8 @@ firmware/assigned/H100_MT_1.6.2_Build_250415_Rel.154752_2025-04-15_15.51.39_1744
 firmware/assigned/H100_MT_1.6.2_Build_250624_Rel.145625_2025-06-24_14.57.46_1751355600876.bin
 firmware/assigned/H100_MT_1.6.2_Build_250624_Rel.145625_2025-06-24_14.57.46_1752914400790.bin
 firmware/assigned/H100_MT_1.6.2_Build_250624_Rel.145625_2025-06-24_14.57.46_1755848445338.bin
+firmware/assigned/H100_MT_1.6.2_Build_250624_Rel.145625_2025-06-24_14.57.46_1758366010992.bin.rollback
+firmware/assigned/H100_MT_1.6.2_Build_250624_Rel.145625_2025-06-24_14.57.46_1758368400741.bin
 firmware/assigned/H100_MT_1.6.2_Build_250715_Rel.203042_2025-07-15_20.37.12_1752646836065.bin
 firmware/assigned/H100_MT_1.6.2_Build_250715_Rel.203042_2025-07-15_20.37.12_1755069600848.bin
 firmware/assigned/H100_MT_1.6.2_Build_250715_Rel.203042_2025-07-15_20.37.12_1755678001061.bin
@@ -30861,6 +30863,7 @@ firmware/assigned/MD5_eb2b42a4cabf55792af0723fe09d2112_RV30_Max_Carpet_1.1.9_Bui
 firmware/assigned/MD5_eb2b42a4cabf55792af0723fe09d2112_RV30_Max_Carpet_1.1.9_Build_241128_Rel.172540_1734408002097.scv
 firmware/assigned/MD5_eb8220c53523eeda62fa34b01d7130a8_RV30_Max_Debug_1.1.9_Build_241202_Rel.170814_1734320470587.scv
 firmware/assigned/MD5_eb8220c53523eeda62fa34b01d7130a8_RV30_Max_Debug_1.1.9_Build_241202_Rel.170814_1734571208430.scv
+firmware/assigned/MD5_ecb4cbeba82c8deea2d0b385ff4216db_RV50_Pro_Debug_1.1.0_Build_250920_Rel.122815_1758350429674.scv
 firmware/assigned/MD5_f02578e8361052b8699f9bda200b7cb4_RV20_Plus_1.1.2_Build_231024_Rel.191340_1698801645857.scv.rollback
 firmware/assigned/MD5_f24e94689a98e002eb8ebbf5c20abaaf_RV30_Max_1.2.0_Build_241204_Rel.142641_1734318003765.scv
 firmware/assigned/MD5_f4e480cff112ca2af5413f55c3fed2e2_RV20_Mop_Plus_1.1.3_Build_240318_Rel.161138_1724223618882.scv
@@ -31669,11 +31672,13 @@ firmware/assigned/S200B(US)test_1.13.0_Build_231121_Rel.092519_2023-11-21_09.25.
 firmware/assigned/S200B(US)test_1.13.0_Build_231121_Rel.092519_2023-11-21_09.25.34_1704184877379.bin
 firmware/assigned/S200B(US)test_1.13.0_Build_231121_Rel.092519_2023-11-21_09.25.34_1728876000338.bin
 firmware/assigned/S210(EU)_1.10.0_Build_250227_Rel.163845_2025-02-27_16.39.18_1743579609822.bin
+firmware/assigned/S210(EU)_1.10.0_Build_250227_Rel.163845_2025-02-27_16.39.18_1758366008599.bin
 firmware/assigned/S210(EU)_1.8.0_Build_220620_Rel.170831_2022-06-20_20.32.31_1700704801028.bin
 firmware/assigned/S210(EU)_1.8.0_Build_230427_Rel.161400_1683193200680.bin
 firmware/assigned/S210(EU)_1.9.0_Build_231106_Rel.164425_2023-11-06_16.45.22_1700529624705.bin
 firmware/assigned/S210(EU)test_1.11.0_Build_250409_Rel.140849_2025-04-09_14.10.38_1744682403137.bin
 firmware/assigned/S220(EU)_1.10.0_Build_250227_Rel.163827_2025-02-27_16.39.13_1743580803578.bin
+firmware/assigned/S220(EU)_1.10.0_Build_250227_Rel.163827_2025-02-27_16.39.13_1758366013443.bin
 firmware/assigned/S220(EU)_1.10.0_Build_250409_Rel.140554_2025-04-09_14.10.53_1744272000348.bin
 firmware/assigned/S220(EU)_1.8.0_Build_220620_Rel.170943_2022-06-20_20.32.02_1700706014421.bin
 firmware/assigned/S220(EU)_1.9.0_Build_231106_Rel.164353_2023-11-06_16.45.14_1700529601295.bin
@@ -31785,6 +31790,7 @@ firmware/assigned/T100(EU)_1.13.0_Build_231117_Rel.135246_1700202004796.bin
 firmware/assigned/T100(EU)_1.13.0_Build_231121_Rel.091715_2023-11-21_09.22.28_1700546410842.bin
 firmware/assigned/T100(EU)_1.13.0_Build_241017_Rel.092746_2024-10-17_09.43.28_1730253634516.bin.rollback
 firmware/assigned/T100(EU)_1.13.0_Build_250226_Rel.140808_2025-02-26_14.08.33_1743578463234.bin
+firmware/assigned/T100(EU)_1.13.0_Build_250226_Rel.140808_2025-02-26_14.08.33_1758366002573.bin
 firmware/assigned/T100(EU)test_1.13.0_Build_230512_Rel.103024_2023-05-12_10.31.01_1684753201920.bin
 firmware/assigned/T100(EU)test_1.14.0_Build_240920_Rel.120410_2024-09-20_12.04.31_1730184057626.bin.rollback
 firmware/assigned/T100(EU)test_1.14.0_Build_241030_Rel.104939_2024-10-30_10.55.02_1730258415110.bin
@@ -31799,6 +31805,7 @@ firmware/assigned/T110(EU)_1.10.0_Build_241017_Rel.092725_2024-10-17_09.43.41_17
 firmware/assigned/T110(EU)_1.10.0_Build_241225_Rel.173126_2024-12-25_17.31.51_1736826000318.bin.rollback
 firmware/assigned/T110(EU)_1.10.0_Build_241225_Rel.173126_2024-12-25_17.31.51_1736840400331.bin.rollback
 firmware/assigned/T110(EU)_1.10.0_Build_250226_Rel.142806_2025-02-26_14.28.32_1743579611777.bin.rollback
+firmware/assigned/T110(EU)_1.10.0_Build_250226_Rel.142806_2025-02-26_14.28.32_1758366004461.bin
 firmware/assigned/T110(EU)_1.10.0_Build_250826_Rel.140437_2025-08-26_14.06.37_1756195200776.bin
 firmware/assigned/T110(EU)_1.12.0_Build_250403_Rel.113635_1743658800339.bin.rollback
 firmware/assigned/T110(EU)_1.12.0_Build_250403_Rel.113635_2025-04-07_17.13.16_1744075200137.bin
@@ -31827,6 +31834,7 @@ firmware/assigned/T300(EU)_1.6.0_Build_230512_Rel.144517_2023-05-12_14.46.16_168
 firmware/assigned/T300(EU)_1.7.0_Build_230628_Rel.194748_2023-06-28_19.48.49_1688178008099.bin
 firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1743579600367.bin
 firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1744081202823.bin
+firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1758366015946.bin
 firmware/assigned/T300(EU)test_1.6.0_Build_230210_Rel.155516_2023-02-10_15.55.59_1677758398811.bin
 firmware/assigned/T300(EU)test_1.7.0_Build_230512_Rel.144535_2023-05-12_14.46.20_1685001600940.bin
 firmware/assigned/T300(EU)test_1.8.0_Build_230628_Rel.194807_2023-06-28_19.48.53_1706787635611.bin.rollback
@@ -31844,6 +31852,7 @@ firmware/assigned/T310(EU)_1.6.0_Build_230105_Rel.151615_2023-01-05_15.30.05_167
 firmware/assigned/T310(EU)_1.6.0_Build_231117_Rel.135511_1700203203980.bin
 firmware/assigned/T310(EU)_1.6.0_Build_231121_Rel.092018_2023-11-21_09.22.55_1700546415645.bin
 firmware/assigned/T310(EU)_1.6.0_Build_250226_Rel.144843_2025-02-26_14.49.09_1743579602704.bin
+firmware/assigned/T310(EU)_1.6.0_Build_250226_Rel.144843_2025-02-26_14.49.09_1758366006224.bin
 firmware/assigned/T310(EU)test_1.7.0_Build_250226_Rel.144851_2025-02-26_14.49.11_1744681202046.bin
 firmware/assigned/T310(US)_1.5.0_Build_241010_Rel.155500_2024-10-10_15.56.36_1728549600126.bin
 firmware/assigned/T310(US)_1.5.0_Build_241010_Rel.155818_2024-10-10_15.58.19_1728552000344.bin
@@ -31882,6 +31891,7 @@ firmware/assigned/T315(EU)_1.9.0_Build_250123_Rel.151048_2025-01-23_15.11.15_175
 firmware/assigned/T315(EU)_1.9.0_Build_250123_Rel.151048_2025-01-23_15.11.15_1756783202853.bin
 firmware/assigned/T315(EU)_1.9.0_Build_250123_Rel.151048_2025-01-23_15.11.15_1756887612975.bin
 firmware/assigned/T315(EU)_1.9.0_Build_250123_Rel.151048_2025-01-23_15.11.15_1757383200356.bin
+firmware/assigned/T315(EU)_1.9.0_Build_250123_Rel.151048_2025-01-23_15.11.15_1758366000355.bin
 firmware/assigned/T315(EU)test_1.8.0_Build_230424_Rel.170345_2023-04-24_17.04.20_1686639628830.bin
 firmware/assigned/T315(EU)test_1.9.0_Build_230921_Rel.091501_2023-09-21_09.15.42 (1)_1743991200351.bin
 firmware/assigned/T315(EU)test_1.9.0_Build_230921_Rel.091501_2023-09-21_09.15.42_1730883604958.bin
@@ -35181,6 +35191,9 @@ firmware/assigned/Tapo_C615G_en_1.1.3_Build_250904_Rel.53973n_up_boot-signed_175
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250905_Rel.75765n_up_boot-signed_1757295635353.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250905_Rel.75765n_up_boot-signed_1758160868915.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250908_Rel.65167n_up_boot-signed_1757402406270.bin
+firmware/assigned/Tapo_C615G_en_1.1.3_Build_250908_Rel.65167n_up_boot-signed_1758343236682.bin
+firmware/assigned/Tapo_C615G_en_1.1.3_Build_250908_Rel.65167n_up_boot-signed_1758344407614.bin
+firmware/assigned/Tapo_C615G_en_1.1.3_Build_250908_Rel.65167n_up_boot-signed_1758346812294.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250908_Rel.71602n_up_boot-signed_1757335267567.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250910_Rel.65828n_up_boot-signed_1757586023352.bin
 firmware/assigned/Tapo_C615G_en_1.1.3_Build_250912_Rel.49597n_up_boot-signed_1757659211735.bin
