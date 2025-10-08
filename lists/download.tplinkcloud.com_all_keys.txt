@@ -3986,7 +3986,7 @@ firmware/EAP113-OUTDOORv1_5.0.9_[20240929-rel38369]_up_signed_1730858863332.bin
 firmware/EAP115-bridgev1_1.0.0_[20240102-rel66840]_up_signed_1715636236948.bin
 firmware/EAP115-bridgev2_1.0.0_[20240731-rel60430]_up_signed_1729531344194.bin
 firmware/EAP115-bridgev2_1.0.1_[20241210-rel56289]_up_signed_1735815165802.bin
-firmware/EAP115-bridgev3_1.0.0_[20250717-rel53594]_up_signed_1754070726461.bin
+firmware/EAP115-bridgev3_1.0.0_[20250717-rel53594]_up_signed_1754070726461.bin.rollback
 firmware/EAP115v4_3.1.0_20180418-rel74210_up_signed_1534408706570.bin
 firmware/EAP115v4_3.1.0_20180418-rel74210_up_signed_1534468230106.bin
 firmware/EAP115v4_3.2.0_20181211-rel51136_up_signed_1546074642670.bin
@@ -29844,6 +29844,7 @@ firmware/assigned/H500-up-ver1-3-1-P1[20250827-rel53617]-signed_1756779604886.bi
 firmware/assigned/H500-up-ver1-3-1-P1[20250903-rel41868]-signed_1756892506873.bin
 firmware/assigned/H500-up-ver1-3-1-P1[20250908-rel57918]-signed_1757473215056.bin
 firmware/assigned/H500-up-ver1-3-1-P1[20250924-rel57419]-signed_1758766820510.bin
+firmware/assigned/H500-up-ver1-3-1-P1[20250924-rel57419]-signed_1759807265933.ico
 firmware/assigned/H500-up-ver1-3-1-P1[20250926-rel57017]-signed_1758885608459.bin
 firmware/assigned/H500-up-ver1-3-4-P1[20250610-rel56706]-signed_1749558038357.bin
 firmware/assigned/H500-up-ver1-3-4-P1[20250701-rel50494]-signed_1751356877678.bin
@@ -34285,6 +34286,7 @@ firmware/assigned/Tapo_C410v1_en_1.1.2_Build_240620_Rel.55394n_up_boot-signed_17
 firmware/assigned/Tapo_C410v1_en_1.2.1_Build_250925_Rel.73366n_up_boot-signed_1758849607545.bin
 firmware/assigned/Tapo_C410v1_en_1.2.1_Build_250926_Rel.40317n_up_boot-signed_1759126811943.bin.rollback
 firmware/assigned/Tapo_C410v1_en_1.2.2_Build_250927_Rel.40327n_up_boot-signed_1759197638041.bin.rollback
+firmware/assigned/Tapo_C410v1_en_1.2.3_Build_250930_Rel.40671n_up_boot-signed_1759832491473.bin
 firmware/assigned/Tapo_C410v2_20_en_1.3.1_Build_250730_Rel.55102n_up_boot-signed_1755230476478.bin.rollback
 firmware/assigned/Tapo_C410v2_20_en_1.3.2_Build_250730_Rel.55102n_up_boot-signed_1755828002133.bin.rollback
 firmware/assigned/Tapo_C410v2_20_en_1.3.4_Build_250801_Rel.55130n_up_boot-signed_1755832816154.bin
@@ -36462,6 +36464,7 @@ firmware/assigned/Tapo_D235v1_en_1.1.6_Build_240304_Rel.62641n_up_boot-signed_17
 firmware/assigned/Tapo_D235v1_en_1.1.7_Build_240319_Rel.51281n_up_boot-signed_1710916837765.bin
 firmware/assigned/Tapo_D235v1_en_1.1.8_Build_240322_Rel.65974n_up_boot-signed_1711590037921.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250519_Rel.62159n_up_boot-signed_1747808455259.bin
+firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250519_Rel.62159n_up_boot-signed_1759802541850.ico
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250625_Rel.42009n_up_boot-signed_1750837217017.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.66076n_up_boot-signed_1752466699607.bin
 firmware/assigned/Tapo_D235v1_en_1.2.0_Build_250711_Rel.66076n_up_boot-signed_1753926051170.bin.rollback
