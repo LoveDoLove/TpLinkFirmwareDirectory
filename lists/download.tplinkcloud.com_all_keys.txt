@@ -5727,6 +5727,7 @@ firmware/ER8411v1_un_1.2.1_20240308-rel75819_up_2024-03-08_21.16.53_171162322832
 firmware/ES10_FCC_ES10US_1.0.5_Build_191031_Rel.101349_1574235600438.bin
 firmware/ES205G 1.0_1.0.1 Build 20240731 Rel.72920_up_1726275349176.bin
 firmware/ES205G(UN) 1.0_1.0.0 Build 20240423 Rel.73134_up_1715856772629.bin
+firmware/ES205G(UN) 1.20_1.0.0 Build 20250808 Rel.39253_up_1759971281287.bin
 firmware/ES205GP 1.0_1.0.1 Build 20240801 Rel.41455_up_1728620665813.bin
 firmware/ES205GP(UN) 1.0_1.0.0 Build 20240721 Rel.42902_up_1727439779522.bin
 firmware/ES205GP(UN) 1.20_1.0.0 Build 20250808 Rel.39253_up_1758769652410.bin
@@ -5734,6 +5735,7 @@ firmware/ES205GP_UN_1.0_1.0.2 Build 20250414 Rel.73097_up_1745560349700.bin
 firmware/ES205GP_UN_1.0_1.0.3 Build 20250609 Rel.74647_up_1750737184605.bin
 firmware/ES205G_UN_1.0_1.0.3 Build 20250414 Rel.72933_up_1745560324287.bin
 firmware/ES205G_UN_1.0_1.0.4 Build 20250609 Rel.74647_up_1750737198635.bin
+firmware/ES206GP 1.20_1.0.0 Build 20250808 Rel.39253_up_1759971275368.bin
 firmware/ES206GP(UN) 1.0_1.0.0 Build 20241110 Rel.78365_up_1734569523102.bin
 firmware/ES206GP_UN_1.0_1.0.1 Build 20250414 Rel.73310_up_1745560356847.bin
 firmware/ES206GP_UN_1.0_1.0.2 Build 20250609 Rel.74647_up_1750737140636.bin
@@ -19514,6 +19516,10 @@ firmware/Tapo_C615G_en_1.1.1_Build_250908_Rel.67590n_up_boot-signed_175850503056
 firmware/Tapo_C630v1_en_1.0.2_Build_250813_Rel.62531n_up_boot-signed_1756429733539.bin
 firmware/Tapo_C630v1_en_1.0.3_Build_250822_Rel.73576n_up_boot-signed_1756803125383.bin
 firmware/Tapo_C630v1_en_1.0.3_Build_250822_Rel.73576n_up_boot-signed_1756863428423.bin
+firmware/Tapo_C645D_en_1.1.3_Build_250911_Rel.77827n_up_boot-signed_1759961311933.bin
+firmware/Tapo_C645D_en_1.1.3_Build_250911_Rel.77827n_up_boot-signed_1759961356614.bin
+firmware/Tapo_C645D_en_1.1.3_Build_250911_Rel.77827n_up_boot-signed_1759962127034.bin
+firmware/Tapo_C645D_en_1.1.3_Build_250911_Rel.77827n_up_boot-signed_1759962182496.bin
 firmware/Tapo_C660_en_1.0.11_Build_250430_Rel.54497n_up_boot-signed_1747728433245.bin
 firmware/Tapo_C660_en_1.0.11_Build_250430_Rel.54497n_up_boot-signed_1747729440184.bin
 firmware/Tapo_C660_en_1.0.11_Build_250430_Rel.54497n_up_boot-signed_1747729449074.bin
@@ -40471,6 +40477,7 @@ firmware/omdnt96560_1.0_en_1.0.2_Build_250625_Rel.72822n_up_boot-signed_17526291
 firmware/omdnt96560_1.0_en_1.0.2_Build_250625_Rel.72822n_up_boot-signed_1752631660560.bin
 firmware/otaLM500_1.0.10-ota-ver_1-0-1020200305-rel606_1583484596641.bin
 firmware/otaLM500_1.0.10-ota-ver_1-0-1020200305-rel606_1585893603693.bin
+firmware/pgw2440v1_eu-up-ver1-1-0-P1-20250826-rel50806-APPLC_1759972041783.bin
 firmware/px50 1.0.3 Build 20230420 Rel. 77020_EU_up_1686129214363.bin
 firmware/px50 1.0.3 Build 20230420 Rel. 77020_US_HK_up_1686128058394.bin
 firmware/px50 1.0.3 Build 20230420 Rel. 77020_US_HK_up_1686128991926.bin
