@@ -20393,6 +20393,7 @@ firmware/VIGI PC Client_setup_x64_1.10.7_1753951042188.exe
 firmware/VIGI PC Client_setup_x64_1.9.55_1745916263405.exe.rollback
 firmware/VIGI PC Client_setup_x64_1.9.61_1748841777679.exe
 firmware/VIGI PC Client_setup_x64_1.9.63_1750210666163.exe
+firmware/VIGI PC Client_setup_x64_2.0.68_1760773180811.exe
 firmware/VIGI VMS_1.5.36_x64_1716454854638.exe
 firmware/VIGI VMS_1.5.36_x64_1716536062189.exe
 firmware/VIGI VMS_1.5.36_x64_1716560130851.exe
@@ -32982,6 +32983,7 @@ firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250612_Rel.57089n_up_boot-signed_17
 firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250618_Rel.67865n_up_boot-signed_1750239660541.bin.rollback
 firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250716_Rel.52110n_up_boot-signed_1756728048757.bin
 firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250716_Rel.52110n_up_boot-signed_1756978853507.bin
+firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250716_Rel.52110n_up_boot-signed_1760767204932.ico
 firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250722_Rel.40986n_up_boot-signed_1753688404531.bin
 firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250729_Rel.43409n_up_boot-signed_1753946402636.bin.rollback
 firmware/assigned/Tapo_C120v1_en_1.3.3_Build_250730_Rel.34608n_up_boot-signed_1754028022567.bin
@@ -40724,7 +40726,7 @@ firmware/nvr1108hwv1_en_1_1_0_up_boot_24120454665-signed_1734330645078.bin
 firmware/nvr1108hwv1_en_1_1_1_up_boot_24122664732-signed_1736134669370.bin
 firmware/nvr1108hwv1_en_1_1_1_up_boot_24122664732-signed_1736149040051.bin
 firmware/nvr1108hwv1_en_1_2_0_up_boot_25090342092-signed_1758606765881.bin
-firmware/nvr1108hwv1_en_1_2_0_up_boot_25090342092-signed_1758615750384.bin
+firmware/nvr1108hwv1_en_1_2_0_up_boot_25090342092-signed_1758615750384.bin.rollback
 firmware/nvr2008h8mpv1_en_1_0_1_up_boot_24011962360-signed_1710742969531.bin
 firmware/nvr2008h8mpv1_en_1_1_0_up_boot_24041168081-signed_1714374492476.bin
 firmware/nvr2008h8mpv1_en_1_1_0_up_boot_24041168081-signed_1715304325661.bin
