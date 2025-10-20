@@ -17796,6 +17796,7 @@ firmware/Tapo_C222v2_en_1.0.2_Build_250211_Rel.34002n_up_boot-signed_17452363816
 firmware/Tapo_C222v2_en_1.0.3_Build_250610_Rel.63186n_up_boot-signed_1755508969593.bin
 firmware/Tapo_C222v2_en_1.0.3_Build_250610_Rel.63186n_up_boot-signed_1755509829878.bin
 firmware/Tapo_C222v2_en_1.0.3_Build_250610_Rel.63186n_up_boot-signed_1755851232632.bin
+firmware/Tapo_C222v2_en_1.4.1_Build_250917_Rel.59712n_up_boot-signed_1760863931140.bin
 firmware/Tapo_C225v1_en_1.0.12_Build_220729_Rel.67901n__1661839694436.bin
 firmware/Tapo_C225v1_en_1.0.14_Build_220922_Rel.76344n__1664445373640.bin
 firmware/Tapo_C225v1_en_1.0.14_Build_220922_Rel.76344n__1669808283812.bin
@@ -33573,6 +33574,7 @@ firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250827_Rel.50922n_up_boot-signed_17
 firmware/assigned/Tapo_C21Av3_en_1.1.3_Build_250929_Rel.41093n_up_boot-signed_1759129201230.bin
 firmware/assigned/Tapo_C21Av3_en_1.1.4_Build_250711_Rel.56576n_up_boot-signed_1753768858904.bin
 firmware/assigned/Tapo_C21Av3_en_1.2.1_Build_251011_Rel.60811n_up_boot-signed_1760702407442.bin
+firmware/assigned/Tapo_C21Av3_en_1.2.1_Build_251011_Rel.60811n_up_boot-signed_1760877606363.bin
 firmware/assigned/Tapo_C21Av3_en_1.3.1_Build_250909_Rel.60582n_up_boot-signed_1757588417223.bin
 firmware/assigned/Tapo_C21Av3_en_1.3.1_Build_250923_Rel.60660n_up_boot-signed_1760628002808.bin.rollback
 firmware/assigned/Tapo_C220v1_en_1.0.10_Build_230803_Rel.60903n_up_boot-signed_1695373230831.bin
@@ -34033,6 +34035,7 @@ firmware/assigned/Tapo_C246Dv1_en_1.1.2_Build_250925_Rel.39649n_up_boot-signed_1
 firmware/assigned/Tapo_C246Dv1_en_1.1.2_Build_250926_Rel.52752n_up_boot-signed_1758873605199.bin
 firmware/assigned/Tapo_C246Dv1_en_1.1.2_Build_250926_Rel.52752n_up_boot-signed_1759202402608.bin.rollback
 firmware/assigned/Tapo_C246Dv1_en_1.1.2_Build_250926_Rel.52752n_up_boot-signed_1760586013870.bin
+firmware/assigned/Tapo_C246Dv1_en_1.1.2_Build_251017_Rel.59429n_up_boot-signed_1760923202300.bin
 firmware/assigned/Tapo_C246Dv1_en_1.1.3_Build_250926_Rel.37848n_up_boot-signed_1758877271382.bin.rollback
 firmware/assigned/Tapo_C246Dv1_en_1.1.4_Build_251009_Rel.37848n_up_boot-signed_1760008825576.bin
 firmware/assigned/Tapo_C250v1_en_1.0.2_Build_250609_Rel.70507n_up_boot-signed_1749798004173.bin
