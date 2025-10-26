@@ -6549,6 +6549,9 @@ firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1750398859089.bin
 firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1750398925851.bin
 firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1750737245347.bin
 firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1750737315312.bin
+firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1761378744623.bin
+firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1761379695362.bin
+firmware/H500-up-ver1-2-0-P1[20250528-rel41278]-signed_1761380566005.bin
 firmware/H500-up-ver1-3-1-P1[20250723-rel54024]-signed_1754878070210.bin
 firmware/H500-up-ver1-3-1-P1[20250723-rel54024]-signed_1754878225955.bin
 firmware/H500-up-ver1-3-1-P1[20250723-rel54024]-signed_1754998665867.bin
@@ -6568,6 +6571,7 @@ firmware/H500-up-ver1-3-4-P1[20250916-rel53390]-signed_1760156363640.bin
 firmware/H500-up-ver1-3-8-P1[20250930-rel43082]-signed_1761037719885.bin
 firmware/H500-up-ver1-3-8-P1[20250930-rel43082]-signed_1761037816709.bin
 firmware/H500-up-ver1-3-8-P1[20250930-rel43082]-signed_1761099738722.bin
+firmware/H500-up-ver1-3-8-P1[20250930-rel43082]-signed_1761379665687.bin
 firmware/HB210_Prov1_0.1.0_3.0.0_UP_BOOT_2024-12-26_17.47.16_1736739436830.bin
 firmware/HB210_Prov1_0.1.0_3.0.0_UP_BOOT_2024-12-26_17.47.16_1739367518240.bin
 firmware/HB210_Prov1_0.1.0_3.0.0_UP_BOOT_2025-02-14_14.49.13_1742377964884.bin
@@ -30235,7 +30239,8 @@ firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250930-rel43082]-signed_175921923
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250930-rel55379]-signed_1759236010169.bin
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251009-rel56509]-signed_1760078435212.bin.rollback
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251013-rel73082]-signed_1760426407984.bin
-firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251024-rel59393]-signed_1761302455369.bin
+firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251024-rel59393]-signed_1761302455369.bin.rollback
+firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251024-rel82184]-signed_1761361210487.bin
 firmware/assigned/H500-up-ver1-0-0-P1[20231225-rel32175]-signed_1704450047915.bin
 firmware/assigned/H500-up-ver1-0-3-P1[20240408-rel19958]-signed_1712559649105.bin
 firmware/assigned/H500-up-ver1-0-4-P1[20240715-rel35489]-signed_1722577286766.bin
@@ -31840,6 +31845,7 @@ firmware/assigned/NB410v(EU1)v1_1.0.0_3.0.0_Build_250609_Rel.27434n_UP_BOOT_2025
 firmware/assigned/NB410v(EU1)v1_1.1.0_3.0.0_Build_250327_Rel.45447n_UP_BOOT_2025-03-28_09.16.48_1743127319369.bin
 firmware/assigned/NB410v(EU1)v1_1.2.0_3.0.0_Build_250328_Rel.9277n_UP_BOOT_2025-03-28_14.04.12_1743144056929.bin
 firmware/assigned/NB410v(EU1)v1_1.3.0_3.0.0_Build_250411_Rel.6765n_UP_BOOT_2025-04-11_11.02.31_1744344040269.bin
+firmware/assigned/NB410vFRSFRv1_1.1.0_3.0.0_Build_251020_Rel.58176n_UP_BOOT_beta_2025-10-25_14.39.29_1761375619020.bin
 firmware/assigned/NE210-Outdoor(BRBSN)v1_1.1.0_3.0.0_Build_240726_Rel.66025n_UP_BOOT_2024-07-26_18.59.36_1722777626215.bin
 firmware/assigned/NE210-Outdoor(BRBSN)v1_1.1.0_3.0.0_Build_240808_Rel.74271n_UP_BOOT_2024-08-09_12.07.54_1723191661798.bin
 firmware/assigned/NE210-Outdoor(BRBSN)v1_1.1.0_3.0.0_Build_240821_Rel.34878n_UP_BOOT_2024-08-21_11.01.49_1724214019421.bin
@@ -32631,6 +32637,7 @@ firmware/assigned/S200B(EU)_1.12.0_Build_231121_Rel.092444_2023-11-21_09.25.22_1
 firmware/assigned/S200B(EU)_1.12.0_Build_231121_Rel.092444_2023-11-21_09.25.22_1717400400922.bin
 firmware/assigned/S200B(EU)_1.13.0_Build_250226_Rel.134253_2025-02-26_13.43.17_1743579604857.bin
 firmware/assigned/S200B(EU)_1.13.0_Build_250226_Rel.134253_2025-02-26_13.43.17_1761294009855.bin
+firmware/assigned/S200B(EU)_1.13.0_Build_250226_Rel.134253_2025-02-26_13.43.17_1761382800351.bin
 firmware/assigned/S200B(EU)test_1.12.0_Build_230526_Rel.135149_2023-05-26_13.52.26_1686568800664.bin
 firmware/assigned/S200B(EU)test_1.12.0_Build_230821_Rel.113605_2023-08-21_11.36.39_1695199201049.bin
 firmware/assigned/S200B(EU)test_1.12.0_Build_230821_Rel.113605_2023-08-21_11.36.39_1697685601267.bin
@@ -36287,6 +36294,7 @@ firmware/assigned/Tapo_C575Dv1_en_1.0.1_Build_250719_Rel.44187n_up_boot-signed_1
 firmware/assigned/Tapo_C575Dv1_en_1.0.1_Build_250723_Rel.34946n_up_boot-signed_1753251610703.bin
 firmware/assigned/Tapo_C575Dv1_en_1.0.1_Build_250725_Rel.35925n_up_boot-signed_1753845660643.bin
 firmware/assigned/Tapo_C575Dv1_en_1.0.2_Build_251013_Rel.57897n_up_boot-signed_1760352003864.bin
+firmware/assigned/Tapo_C575Dv1_en_1.0.2_Build_251025_Rel.33757n_up_boot-signed_1761358841781.bin
 firmware/assigned/Tapo_C575Dv1_en_1.0.3_Build_251015_Rel.37737n_up_boot-signed_1760529614217.bin
 firmware/assigned/Tapo_C610v1_en_1.0.0_Build_250218_Rel.65534n_up_boot-signed_1739875222930.bin
 firmware/assigned/Tapo_C610v1_en_1.0.1_Build_250217_Rel.72120n_up_boot-signed_1739797210148.bin
@@ -36584,6 +36592,7 @@ firmware/assigned/Tapo_C660_en_1.1.3_Build_250915_Rel.51742n_up_boot-signed_1758
 firmware/assigned/Tapo_C660_en_1.1.3_Build_250915_Rel.62125n_up_boot-signed_1757937620608.bin
 firmware/assigned/Tapo_C660_en_1.1.3_Build_250928_Rel.73585n_up_boot-signed_1759117260736.bin
 firmware/assigned/Tapo_C660_en_1.1.3_Build_250928_Rel.73585n_up_boot-signed_1759128046174.bin
+firmware/assigned/Tapo_C660_en_1.1.3_Build_251017_Rel.34132n_up_boot-signed_1761378019326.bin
 firmware/assigned/Tapo_C665G_en_1.0.2_Build_250422_Rel.35976n_up_boot-signed_1745976053529.bin
 firmware/assigned/Tapo_C665G_en_1.0.2_Build_250422_Rel.35976n_up_boot-signed_1745983029692.bin
 firmware/assigned/Tapo_C665G_en_1.0.2_Build_250422_Rel.35976n_up_boot-signed_1745983286068.bin
@@ -37353,6 +37362,7 @@ firmware/assigned/h70xv1_20_eu-up-ver1-2-2-P1[20230515-rel73868]_2023-05-16_16.1
 firmware/assigned/high_EX221-G5V1_UP_2025-06-09_17.05.54_1749460815908.bin.rollback
 firmware/assigned/high_EX221-G5V1_UP_2025-08-23_14.57.42_1756346429219.bin.rollback
 firmware/assigned/high_HX520_UP_2025-08-08_18.09.29_1755488483832.bin
+firmware/assigned/higher_NB410vFRSFRv1_1.1.0_3.0.0_Build_251022_Rel.12901n_UP_BOOT_beta_2025-10-25_13.59.51_1761373279015.bin
 firmware/assigned/jcefececjafiefebaaabegegihbadgdf_1671103203208.bin.rollback
 firmware/assigned/jiddajacfjdhebehbiadhccdfcaecice_1669962015963.bin
 firmware/assigned/jjffcfbcieiaedcgabdjccjfafbegcgh_1670492463938.bin
