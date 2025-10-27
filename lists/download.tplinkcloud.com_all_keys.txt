@@ -5555,6 +5555,7 @@ firmware/EB210_Prov1_0.1.0_3.0.0_UP_BOOT_2025-04-14_14.35.38_1749524094530.bin
 firmware/EB210_Prov1_0.2.0_3.0.0_UP_BOOT_2025-08-07_17.15.20_1758003813606.bin
 firmware/EB210_Prov1_0.2.0_3.0.0_UP_BOOT_2025-08-07_17.15.20_1758163971436.bin
 firmware/EB210_Prov1_0.2.0_3.0.0_UP_BOOT_2025-08-07_17.15.20_1761098845199.bin
+firmware/EB210_Prov1_0.2.0_3.0.0_UP_BOOT_2025-08-07_17.15.20_1761528176064.bin
 firmware/EB210v1_0.1.0_3.0.0_UP_BOOT_2025-07-24_11.11.18_1756716756443.bin
 firmware/EB810vv1_0.14.0_3.0.0_UP_BOOT_2024-07-10_09.33.09_1721723039329.bin
 firmware/EB810vv1_0.14.0_3.0.0_UP_BOOT_2024-07-10_09.33.09_1721723927753.bin
@@ -33943,6 +33944,7 @@ firmware/assigned/Tapo_C220v2_en_1.4.5_Build_250921_Rel.51441n_up_boot-signed_17
 firmware/assigned/Tapo_C220v2_en_1.4.5_Build_250921_Rel.51441n_up_boot-signed_1760149267408.bin
 firmware/assigned/Tapo_C220v2_en_1.4.5_Build_251014_Rel.40588n_up_boot-signed_1760430018842.bin
 firmware/assigned/Tapo_C220v2_en_1.4.5_Build_251014_Rel.40588n_up_boot-signed_1760516432559.bin
+firmware/assigned/Tapo_C220v2_en_1.4.5_Build_251024_Rel.64142n_up_boot-signed_1761454808349.bin
 firmware/assigned/Tapo_C220v2_en_1.4.6_Build_250722_Rel.41383n_up_boot-signed_1755500415125.bin
 firmware/assigned/Tapo_C220v2_en_1.4.6_Build_250821_Rel.60078n_up_boot-signed_1755766804454.bin
 firmware/assigned/Tapo_C220v2_en_1.4.7_Build_250807_Rel.74259n_up_boot-signed_1755586802732.bin
