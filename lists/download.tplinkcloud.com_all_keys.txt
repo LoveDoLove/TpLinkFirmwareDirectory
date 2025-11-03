@@ -77,6 +77,8 @@ app/DecoComRelease_3.8.23963_com_202408210116.ipa
 app/DecoComRelease_3.8.24964_com_202408260200.ipa
 app/DecoComRelease_3.8.691009_com_202410140057.ipa
 app/DecoComRelease_3.8.761016_com_202410302242.ipa
+app/DecoComRelease_3.9.1131414_com_202506300317.ipa
+app/DecoComRelease_3.9.1151415_com_202507030319.ipa
 app/DecoComRelease_3.9.121314_com_202503252340.ipa
 app/DecoComRelease_3.9.501350_com_202504100042.ipa
 app/DecoComRelease_3.9.91309_com_202503070004.ipa
@@ -636,6 +638,8 @@ app/deco_dist_3.9.23_20250326083502.apk
 app/deco_dist_3.9.56_20250515084330.apk
 app/deco_dist_3.9.75_20250526110310.apk
 app/deco_dist_3.9.76_20250610083715.apk
+app/deco_dist_3.9.95_20250630130247.apk
+app/deco_dist_3.9.98_20250714063654.apk
 app/kasa_3.0.01095_20220908174401_release_playstore_dist_1664347746164.apk
 app/kasa_3.1.01103_20221018114340_release_trial_dist_1667786794450.apk
 app/kasa_3.1.31128_20221205224908_release_trial_dist_1671784147175.apk
@@ -36931,6 +36935,8 @@ firmware/assigned/Tapo_C665G_en_1.3.0_Build_251030_Rel.81254n_up_boot-signed_176
 firmware/assigned/Tapo_C665G_en_1.3.0_Build_251031_Rel.41577n_up_boot-signed_1761883208971.bin
 firmware/assigned/Tapo_C665G_en_1.3.0_Build_251031_Rel.56822n_up_boot-signed_1761898919139.bin
 firmware/assigned/Tapo_C665G_en_1.3.0_Build_251031_Rel.83395n_up_boot-signed_1761924012380.bin
+firmware/assigned/Tapo_C665G_en_1.3.0_Build_251102_Rel.51384n_up_boot-signed_1762066847307.bin
+firmware/assigned/Tapo_C665G_en_1.3.0_Build_251102_Rel.82717n_up_boot-signed_1762098035321.bin
 firmware/assigned/Tapo_C668Bv1_en_1.0.0_Build_250923_Rel.34381n_up_boot-signed_1759040412501.bin
 firmware/assigned/Tapo_C668Bv1_en_1.0.1_Build_250903_Rel.36997n_up_boot-signed_1757641212425.bin
 firmware/assigned/Tapo_C668Bv1_en_1.0.1_Build_250903_Rel.42709n_up_boot-signed_1756900820782.bin
