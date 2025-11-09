@@ -37184,6 +37184,7 @@ firmware/assigned/Tapo_C665G_en_1.3.0_Build_251103_Rel.79440n_up_boot-signed_176
 firmware/assigned/Tapo_C665G_en_1.3.0_Build_251105_Rel.43089n_up_boot-signed_1762340410890.bin
 firmware/assigned/Tapo_C665G_en_1.3.0_Build_251105_Rel.46302n_up_boot-signed_1762320050883.bin
 firmware/assigned/Tapo_C665G_en_1.3.0_Build_251106_Rel.55014n_up_boot-signed_1762417214882.bin
+firmware/assigned/Tapo_C665G_en_1.3.0_Build_251108_Rel.70033n_up_boot-signed_1762602018232.bin
 firmware/assigned/Tapo_C668Bv1_en_1.0.0_Build_250923_Rel.34381n_up_boot-signed_1759040412501.bin
 firmware/assigned/Tapo_C668Bv1_en_1.0.1_Build_250903_Rel.36997n_up_boot-signed_1757641212425.bin
 firmware/assigned/Tapo_C668Bv1_en_1.0.1_Build_250903_Rel.42709n_up_boot-signed_1756900820782.bin
