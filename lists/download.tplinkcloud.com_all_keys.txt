@@ -36292,6 +36292,7 @@ firmware/assigned/Tapo_C501gwv2_en_1.1.2_Build_250928_Rel.57360n_up_boot-signed_
 firmware/assigned/Tapo_C501gwv2_en_1.1.2_Build_251015_Rel.63469n_up_boot-signed_1760523621278.bin.rollback
 firmware/assigned/Tapo_C501gwv2_en_1.1.2_Build_251015_Rel.63469n_up_boot-signed_1761026421351.bin
 firmware/assigned/Tapo_C501gwv2_en_1.1.2_Build_251022_Rel.52006n_up_boot-signed_1761118804512.bin
+firmware/assigned/Tapo_C501gwv2_en_1.1.2_Build_251022_Rel.52006n_up_boot-signed_1762737637001.bin
 firmware/assigned/Tapo_C501gwv2_en_1.1.3_Build_250930_Rel.56742n_up_boot-signed_1759220404082.bin
 firmware/assigned/Tapo_C501gwv2_en_1.1.3_Build_251031_Rel.39526n_up_boot-signed_1761889210135.bin
 firmware/assigned/Tapo_C501gwv2_en_1.1.3_Build_251104_Rel.65101n_up_boot-signed_1762395637308.bin
