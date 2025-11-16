@@ -33290,6 +33290,7 @@ firmware/assigned/S235_AP_1.2.5_Build_250228_Rel.160753_2025-03-03_14.36.20_1740
 firmware/assigned/S235_AP_1.3.9_Build_250327_Rel.160944_2025-03-27_16.10.10_1743063600501.bin
 firmware/assigned/S310D_UN_1.0.0_Build_250309_Rel.204259_2025-03-10_13.58.32_1741587622205.bin
 firmware/assigned/S310D_UN_1.0.10_Build_251111_Rel.195030_2025-11-11_19.51.30_1763095200692.ico
+firmware/assigned/S310D_UN_1.0.11_Build_251114_Rel.180237_2025-11-14_18.04.03_1763174401700.bin
 firmware/assigned/S310D_UN_1.0.3_Build_250515_Rel.092120_2025-05-15_09.22.31_1747906820492.bin
 firmware/assigned/S310D_UN_1.0.3_Build_250701_Rel.212339_2025-07-01_21.26.25_1751377200692.bin
 firmware/assigned/S310D_UN_1.0.4_Build_250515_Rel.140951_2025-05-15_14.23.12_1747965600868.bin
@@ -35132,6 +35133,7 @@ firmware/assigned/Tapo_C310v2_en_1.5.1_Build_251011_Rel.60619n_up_boot-signed_17
 firmware/assigned/Tapo_C310v2_en_1.5.1_Build_251015_Rel.68626n_up_boot-signed_1760594402332.bin
 firmware/assigned/Tapo_C310v2_en_1.5.1_Build_251104_Rel.55788n_up_boot-signed_1762258810713.bin
 firmware/assigned/Tapo_C310v2_en_1.5.1_Build_251112_Rel.50594n_up_boot-signed_1762934405087.bin
+firmware/assigned/Tapo_C310v2_en_1.5.1_Build_251114_Rel.53296n_up_boot-signed_1763179206060.bin
 firmware/assigned/Tapo_C310v2_en_1.5.2_Build_251011_Rel.60619n_up_boot-signed_1761098438834.bin
 firmware/assigned/Tapo_C310v2_en_1.5.3_Build_250514_Rel.62215n_up_boot-signed_1747203642791.bin
 firmware/assigned/Tapo_C310v2_en_1.5.3_Build_250514_Rel.62215n_up_boot-signed_1747207220240.bin
