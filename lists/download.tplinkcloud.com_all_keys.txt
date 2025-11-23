@@ -30887,6 +30887,7 @@ firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251107-rel50997]-signed_176354401
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251112-rel54232]-signed_1762940436896.bin
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251121-rel52237]-signed_1763710830242.bin
 firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251121-rel52237]-signed_1763720407813.bin
+firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20251121-rel52237]-signed_1763793624685.bin
 firmware/assigned/H500-up-ver1-0-0-P1[20231225-rel32175]-signed_1704450047915.bin
 firmware/assigned/H500-up-ver1-0-3-P1[20240408-rel19958]-signed_1712559649105.bin
 firmware/assigned/H500-up-ver1-0-4-P1[20240715-rel35489]-signed_1722577286766.bin
