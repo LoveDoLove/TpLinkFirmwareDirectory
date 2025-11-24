@@ -1754,6 +1754,7 @@ firmware/Archer-C88-2.0-TPOS-up-noboot-128B_2024-04-30_15.30.41_1726312281847.bi
 firmware/Archer-C88-2.0-TPOS-up-noboot-128B_2025-07-30_11.00.49_1756909416325.bin
 firmware/Archer-C88-2.0-TPOS-up-noboot-256B_agc3500_2025-07-29_18.53.49_1757018252360.bin
 firmware/Archer-C88-2.20-TPOS-up-noboot-128B_2024-08-13_12.08.13_1733195269633.bin
+firmware/Archer-C88-2.20-TPOS-up-noboot-128B_2025-07-30_11.01.00_1763947332958.bin
 firmware/Archer-C88-2.20-TPOS-up-noboot-256B_agc3500_2025-07-29_18.53.59_1759982833651.bin
 firmware/ArcherA10v2-up-ver1-0-0-P120200402-rel75473_s_1590400497380.bin
 firmware/ArcherA10v2-up-ver1-0-0-P120201020-rel68946_si_1606099987577.bin
@@ -4905,6 +4906,10 @@ firmware/EAP613v1_1.5.3_[20250208-rel60097]_up_signed_1744044755466.bin
 firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1759163042322.bin
 firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1759163217443.bin
 firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1763107687046.bin
+firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1763866483876.bin
+firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1763866508630.bin
+firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1763866527909.bin
+firmware/EAP615-WALLv1.20_1.5.10_[20250903-rel49784]_up_signed_1763867259330.bin
 firmware/EAP615-WALLv1_1.0.0_20210522-rel52673_up_signe_1626170837365.bin
 firmware/EAP615-WALLv1_1.0.1_20210623-rel67866_up_signe_1629276737866.bin
 firmware/EAP615-WALLv1_1.0.1_20210623-rel67866_up_signe_1629276805574.bin
@@ -38430,6 +38435,7 @@ firmware/assigned/XE75 1.0 en_1.4.6 Build 20250425 Rel. 52068_US_EU_JP_up_175387
 firmware/assigned/XE75_XE5300_WE10800_SP1-up-ver1-2-14-P1[20241226-rel46410]_2024-12-27_09.54.34_1742785221241.bin
 firmware/assigned/XE75_XE5300_WE10800_SP1-up-ver1-2-14-P1[20241226-rel46410]_2024-12-27_09.54.34_1750059625734.bin
 firmware/assigned/XE75_XE5300_WE10800_SP1-up-ver1-3-0-P1[20250915-rel30815]_2025-09-19_15.28.33_1761646841707.bin
+firmware/assigned/ac12gv2-up-noboot_2025-11-21_10.51.11_1763883601844.bin
 firmware/assigned/agjjeiafficiehhdjcdehebehbagbeje_1670234437369.bin
 firmware/assigned/ahbidedccbdaeffbjadaaeabdgbffafd_1671177610187.bin.rollback
 firmware/assigned/ahcehffcgeafeadeaaaageegdbffjded_1670492431213.bin
