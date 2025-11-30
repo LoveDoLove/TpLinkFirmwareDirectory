@@ -16973,6 +16973,8 @@ firmware/Tapo_C110v3_en_1.1.2_Build_250429_Rel.35521n_up_boot-signed_17485960681
 firmware/Tapo_C110v3_en_1.1.2_Build_250429_Rel.35521n_up_boot-signed_1748596105368.bin
 firmware/Tapo_C110v3_en_1.2.1_Build_251031_Rel.49251n_up_boot-signed_1764215559856.bin
 firmware/Tapo_C110v3_en_1.2.1_Build_251031_Rel.49251n_up_boot-signed_1764315470553.bin
+firmware/Tapo_C110v3_en_1.2.1_Build_251031_Rel.49251n_up_boot-signed_1764397336467.bin
+firmware/Tapo_C110v3_en_1.2.1_Build_251031_Rel.49251n_up_boot-signed_1764397354691.bin
 firmware/Tapo_C113v1_en_1.0.4_Build_250228_Rel.28055n_up_boot-signed_1755744836020.bin
 firmware/Tapo_C113v1_en_1.1.4_Build_250930_Rel.60447n_up_boot-signed_1761008830145.bin
 firmware/Tapo_C113v1_en_1.1.4_Build_250930_Rel.60447n_up_boot-signed_1761016930444.bin
@@ -30443,6 +30445,7 @@ firmware/assigned/H100_MT_1.7.1_Build_251119_Rel.093622_2025-11-19_09.39.50_1763
 firmware/assigned/H100_MT_1.7.3_Build_251121_Rel.183657_2025-11-21_18.39.49_1763722817863.bin
 firmware/assigned/H100_MT_1.7.3_Build_251121_Rel.183657_2025-11-21_18.39.49_1763724018530.bin
 firmware/assigned/H100_MT_1.7.4_Build_251128_Rel.194826_2025-11-28_19.51.40_1764332403373.bin
+firmware/assigned/H100_MT_1.7.4_Build_251128_Rel.194826_2025-11-28_19.51.40_1764414000718.bin
 firmware/assigned/H100_UK_1.2.3_Build_221214_Rel.112121_2022-12-14_11.23.09_1671186003103.bin.rollback
 firmware/assigned/H100_UK_1.2.3_Build_221230_Rel.142636_2022-12-30_14.34.17_1672390805403.bin
 firmware/assigned/H100_UK_1.2.3_Build_221230_Rel.142636_2022-12-30_14.34.17_1672711203762.bin.rollback
@@ -31239,6 +31242,7 @@ firmware/assigned/H500-up-ver1-3-8-P1[20251120-rel51458]-signed_1763634007902.bi
 firmware/assigned/H500-up-ver1-3-8-P1[20251121-rel55866]-signed_1763722815041.bin.rollback
 firmware/assigned/H500-up-ver1-3-8-P1[20251125-rel42669]-signed_1764051672713.bin
 firmware/assigned/H500-up-ver1-3-8-P1[20251125-rel70418]-signed_1764127279230.bin
+firmware/assigned/H500-up-ver1-3-8-P1[20251128-rel70487]-signed_1764381674809.bin
 firmware/assigned/H600W-up-ver1-6-2-P1[20250716-rel70196]-signed_1752723636700.bin.rollback
 firmware/assigned/H600W-up-ver1-6-2-P1[20250716-rel83426]-signed_1752734402359.bin
 firmware/assigned/H600W-up-ver1-8-1-P1[20250717-rel66914]-signed_1753176001617.bin
@@ -39613,6 +39617,9 @@ firmware/ax53v1-up-ax53v1-only-ver1-5-3-P1[20250926-rel87654]-1024_sign_17592151
 firmware/ax53v1-up-ax53v1-only-ver1-5-4-P1[20250926-rel87654]-2048_sign_1759202122660.bin
 firmware/ax53v1-up-ax58v1-ax57v1-ax56v1-all-ver1-5-2-P1[20250812-rel38324]-2048_sign_1757319069665.bin
 firmware/ax53v1-up-ax58v1-ax57v1-ax56v1-all-ver1-5-3-P1[20250903-rel13207]-2048_sign_1758244169224.bin
+firmware/ax53v1-up-ax58v1-ax57v1-ax56v1-all-ver1-6-1-P1[20251027-rel63189]-2048_sign_1764414489622.bin
+firmware/ax53v1-up-ax58v1-ax57v1-ax56v1-all-ver1-6-2-P1[20251027-rel55748]-2048_sign_1764414577551.bin
+firmware/ax53v1-up-ax58v1-ax57v1-ax56v1-all-ver1-6-2-P1[20251027-rel55748]-2048_sign_1764414624369.bin
 firmware/ax53v1-up-sg-ver1-1-4-P1[20230413-rel63410]-2048_sign_2023-04-13_18.53.15_1694655581127.bin
 firmware/ax53v1-up-sg-ver1-2-2-P1[20230627-rel39033]-2048_sign_2023-06-27_15.07.36_1694655660630.bin
 firmware/ax53v1-up-sg-ver1-2-4-P1[20240509-rel64683]-2048_signed_2024-05-09_16.31.19_1718260211632.bin
